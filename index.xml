@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MKY Blog</title>
-    <link>https://mkykadir.com/</link>
-    <description>Recent content on MKY Blog</description>
+    <title>MKY</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on MKY</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>tr-TR</language>
     <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mkykadir.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🇲🇹 Merħba Malta </title>
-      <link>https://mkykadir.com/2025/05/01/malta-gezisi/</link>
+      <link>http://localhost:1313/2025/05/01/malta-gezisi/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://mkykadir.com/2025/05/01/malta-gezisi/</guid>
+      <guid>http://localhost:1313/2025/05/01/malta-gezisi/</guid>
       <description>&lt;p&gt;Malta da nereden çıktı, bilmiyorum, programsız geziler ekstra bir keyifli oluyor&#xA;dedim ve koyuldum yola. Minik bir ada, İstanbul anadolu yakasından hallice. Fakat minik bir&#xA;yanlış hesap ile 4 günde bitirilebilecek bu tatlı yere 7 gün ayırmış oldum.&lt;/p&gt;&#xA;&lt;p&gt;Aktarmasız olarak yalnızca THY ile gidilen Malta&amp;rsquo;ya sezondan önce gitmiş olmama rağmen&#xA;farklı bölgelerden aktarmalı gelenlerle uçak tam dolu.&lt;/p&gt;&#xA;&lt;p&gt;Daha pasaport kontrolünde Akdeniz insanının sıcaklığı ile karşılandım.&#xA;Adada ulaşım otobüslerle çok rahat, 7 günlük bilet alıp yoluma&#xA;devam ettim. &lt;a href=&#34;https://www.publictransport.com.mt/&#34;&gt;Resmi sitesinden&lt;/a&gt; bilgi alabilirsiniz.&#xA;Kapıdan dışarı adım attığım gibi güzel bir çöl sıcağı eşliğinde yeşil renkli İETT&amp;rsquo;e binip yola&#xA;koyuldum.&lt;/p&gt;</description>
     </item>
     <item>
       <title>🇺🇿 İlim diyarı Özbekistan</title>
-      <link>https://mkykadir.com/2025/04/01/ozbekistan-gezisi/</link>
+      <link>http://localhost:1313/2025/04/01/ozbekistan-gezisi/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://mkykadir.com/2025/04/01/ozbekistan-gezisi/</guid>
+      <guid>http://localhost:1313/2025/04/01/ozbekistan-gezisi/</guid>
       <description>&lt;p&gt;Bizi aşağı çeken şeylere daha çok değer veriyoruz her geçen gün, pahası olan nesnelere paha biçilemez takısı takmaya çalışıyoruz, herkeste olanın bizdeki halinin en öznel olduğuna kendimize inandırıyoruz. Tarih hakkında içerikler izleyip, okudukça ve gezdikçe görüyorum ki bilginin ve ilmin paha biçilmez değerini bulanlar ihya olmuşlar ve paha biçilmezin peşinde koşturanlar büyümüşler. İlmin peşinden koşan, ilim insanına değer veren ve ilme merkez olan devletler hem toprakları hem gönülleri kazanmışlar, kısaca  &amp;ldquo;Oku&amp;rdquo; emrine riayet edenler hükmetmişler.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://mkykadir.com/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mkykadir.com/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;&#xA;&lt;p&gt;Muhammed Kadir Yücel&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://mkykadir.com/search/placeholder/</link>
+      <link>http://localhost:1313/search/placeholder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mkykadir.com/search/placeholder/</guid>
+      <guid>http://localhost:1313/search/placeholder/</guid>
       <description></description>
     </item>
     <item>
       <title>Posts Archive</title>
-      <link>https://mkykadir.com/archive/</link>
+      <link>http://localhost:1313/archive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mkykadir.com/archive/</guid>
+      <guid>http://localhost:1313/archive/</guid>
       <description></description>
     </item>
   </channel>
