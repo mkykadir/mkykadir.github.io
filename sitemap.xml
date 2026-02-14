@@ -2,16 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mkykadir.com/2026/02/04/irak/</loc>
+    <lastmod>2026-02-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mkykadir.com/tags/asya/</loc>
+    <lastmod>2026-02-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mkykadir.com/categories/</loc>
-    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mkykadir.com/categories/gezi/</loc>
+    <lastmod>2026-02-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mkykadir.com/</loc>
-    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mkykadir.com/categories/notlar/</loc>
-    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mkykadir.com/post/</loc>
+    <lastmod>2026-02-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mkykadir.com/tags/</loc>
+    <lastmod>2026-02-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mkykadir.com/categories/notlar/</loc>
     <lastmod>2025-12-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mkykadir.com/2025/12/31/takvimin-son-yapragi/</loc>
@@ -21,12 +33,6 @@
     <lastmod>2025-12-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mkykadir.com/tags/avrupa/</loc>
-    <lastmod>2025-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mkykadir.com/categories/gezi/</loc>
-    <lastmod>2025-12-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mkykadir.com/tags/</loc>
     <lastmod>2025-12-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mkykadir.com/tags/yunanistan/</loc>
@@ -66,9 +72,6 @@
     <lastmod>2025-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mkykadir.com/2025/04/01/ozbekistan-gezisi/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mkykadir.com/tags/asya/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mkykadir.com/2025/02/10/guney-almanya/</loc>
