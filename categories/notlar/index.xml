@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notlar on MKY</title>
-    <link>https://mkykadir.com/categories/notlar/</link>
+    <link>http://localhost:1313/categories/notlar/</link>
     <description>Recent content in Notlar on MKY</description>
     <generator>Hugo</generator>
     <language>tr-TR</language>
     <lastBuildDate>Wed, 31 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mkykadir.com/categories/notlar/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/notlar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🗓️ Takvimin son yaprağı</title>
-      <link>https://mkykadir.com/2025/12/31/takvimin-son-yapragi/</link>
+      <link>http://localhost:1313/2025/12/31/takvimin-son-yapragi/</link>
       <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://mkykadir.com/2025/12/31/takvimin-son-yapragi/</guid>
+      <guid>http://localhost:1313/2025/12/31/takvimin-son-yapragi/</guid>
       <description>&lt;p&gt;Zaman, soyut bir kavram, fani dünyanın bir parçası ve bu soyutluğu daha yaşanabilir kılmak adına saat, gün, ay ve yıl gibi kavramlar üretmişiz. Kimi günleri hafta sonu belirleyip tatil yapmış ve bu sisteme o kadar alışmışız ki &amp;ldquo;Pazartesi sendromu&amp;rdquo; gibi bir kavram bile üretmişiz. Halbuki, doğada Pazartesi yok, hafta sonu tatili yok, ay sonu veya yıl başı gibi kavramların hiçbir karşılığı yok. Zaman kendi akışında olması gerektiği gibi akarken, tüm mahlukat bu akışta yapması gerekenleri yapmak peşinde. Bundan 200 yıl önce bu topraklarda günler, aylar ve seneler çok farklı kavramlardaydı, zaman o kadar soyut ki tanımlamasını bile çeşitli takvimlerle yapmış insanoğlu bunca zamandır.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🖥️ Huawei Mateview Tamiri</title>
+      <link>http://localhost:1313/2025/09/04/huawei-mateview-tamir/</link>
+      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2025/09/04/huawei-mateview-tamir/</guid>
+      <description>&lt;p&gt;Her gün saatlerce işim için severek aldığım ve memnuniyetle kullandığım Huawei Mateview 28.2&amp;quot; monitörüm bozuldu, ekranda görüntü var fakat ekran arka ışığı yok. Parlaklık ayarı yapamıyorum ve doğal olarak da monitör kullanılamaz durumda.&lt;/p&gt;&#xA;&lt;p&gt;Garantisi bitmiş olmasına rağmen henüz çok yeni bir monitördü ve hemen yetkili servisine götürdüm ve piyasadaki birçok monitörden daha çok ücret isteyerek anakartını değiştirmek istediler. Tam ₺12.000&amp;rsquo;e monitörüm tamir olacakmış&amp;hellip; Kısacası monitörünü çöpe at yenisi al demekten başka bir şey değil&amp;hellip;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

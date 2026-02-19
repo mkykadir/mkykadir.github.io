@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Türkiye on MKY</title>
-    <link>https://mkykadir.com/tags/t%C3%BCrkiye/</link>
+    <link>http://localhost:1313/tags/t%C3%BCrkiye/</link>
     <description>Recent content in Türkiye on MKY</description>
     <generator>Hugo</generator>
     <language>tr-TR</language>
     <lastBuildDate>Sun, 31 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mkykadir.com/tags/t%C3%BCrkiye/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/t%C3%BCrkiye/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🛣️ Yolda Olmak</title>
-      <link>https://mkykadir.com/2025/08/31/yolda-olmak/</link>
+      <link>http://localhost:1313/2025/08/31/yolda-olmak/</link>
       <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://mkykadir.com/2025/08/31/yolda-olmak/</guid>
+      <guid>http://localhost:1313/2025/08/31/yolda-olmak/</guid>
       <description>&lt;p&gt;Yolun kendisi mi yoksa hedefe ulaşmak mıdır güzel olan? Hedefe ulaşmanın adımlarından birisi, yolda olmak; yolda olmak için karar vermek, adım atmak gerek. Fakat ademoğlu onu hedefine götüren yola değil de hedefin kendisine odaklıdır çoğu zaman. Yolu güzelleştirmeyi, çiçeklerle bezemeyi unutur devam eder. Fakat kimi yollar vardır ki, yolda olmanın romantizmi yoktur, kendi tercihinizle giremediğiniz veya seçme özgürlüğünüzün olmadığı yollar, kimi zaman da çok istediğiniz ve gittiğiniz yoldan çıkmanız gerekenler&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>🇹🇷 Eskilerden notlar, Trabzon</title>
-      <link>https://mkykadir.com/2025/07/05/trabzon/</link>
+      <link>http://localhost:1313/2025/07/05/trabzon/</link>
       <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://mkykadir.com/2025/07/05/trabzon/</guid>
+      <guid>http://localhost:1313/2025/07/05/trabzon/</guid>
       <description>&lt;p&gt;Büyüklerimiz, iyisiyle kötüsüyle bizlere anlattıkça biliriz toprağımızı, köyümüzü, oralara gidip temas etmek isteriz havasını solumak isteriz. Trabzon da benim için böyle oldu, çok önceleri gitmiştim yaylamıza, ne telefon ne televizyon çeken dingin o güzel yeşil yörelere. Tabii o zamanlar bu dinginliğin değerini anlamak pek mümkün değildi fakat bu sefer en ihtiyacım olan zamanda gittim o dingin yörelere.&lt;/p&gt;&#xA;&lt;p&gt;Aslında Trabzon demek biraz yanlış oluyor, düzeltmeyi yapalım, Of&amp;rsquo;a gittim 😊 Of merkezden 40 dakika mesafede olan yaylamıza düştü yolum, ata toprağına o güzel yeşil yörelere çıktım, 2200 metre rakıma. Gelişen teknoloji ile eskiden telefon çekmeyen buralarda artık 4.5G internet ile kuş ve sus sesleri eşliğinde çalışmalarımı yapabildim ve gece çöken sis ve soğuktan dolayı sobada yanan odunun çıtır çıtır sesleri eşliğinde.&lt;/p&gt;</description>
     </item>
   </channel>
