@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teknik on MKY</title>
-    <link>http://localhost:1313/categories/teknik/</link>
+    <link>https://mkykadir.com/categories/teknik/</link>
     <description>Recent content in Teknik on MKY</description>
     <generator>Hugo</generator>
     <language>tr-TR</language>
     <lastBuildDate>Fri, 03 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/teknik/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mkykadir.com/categories/teknik/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>💻 Açık kaynak modeli, Optimisim&#39;in Reth ayrışması</title>
-      <link>http://localhost:1313/2026/04/03/acik-kaynak-ve-op/</link>
+      <link>https://mkykadir.com/2026/04/03/acik-kaynak-ve-op/</link>
       <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2026/04/03/acik-kaynak-ve-op/</guid>
+      <guid>https://mkykadir.com/2026/04/03/acik-kaynak-ve-op/</guid>
       <description>&lt;p&gt;Açık kaynak yazılım, daha öğrenciyken hevesle takip ettiğim, yürekten desteklediğim bir modeldi. Düşünün birileri binlerce satır kod yazmış ve size Linux gibi güzel bir sistemi ücretsiz bir şekilde sunup paketliyor ve henüz öğrenciyken birçok ödevinizi yapabiliyor, bu kodları okuyup teknik bilginizi geliştirebiliyor hatta kabiliyetiniz varsa siz de düzenlemelerinizi gönderebiliyorsunuz. Üstelik bunu birbirini neredeyse hiç görmeden, tanımadan ortak bir fikir üzerinde düşünüp tasarımlar yapan insanlar birlik içinde yapabiliyor. İlginç bir ütopyanın hayat bulmuş hali adeta&amp;hellip;&lt;/p&gt;</description>
     </item>
   </channel>

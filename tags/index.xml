@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on MKY</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://mkykadir.com/tags/</link>
     <description>Recent content in Tags on MKY</description>
     <generator>Hugo</generator>
     <language>tr-TR</language>
     <lastBuildDate>Fri, 03 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mkykadir.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blockchain</title>
-      <link>http://localhost:1313/tags/blockchain/</link>
+      <link>https://mkykadir.com/tags/blockchain/</link>
       <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/blockchain/</guid>
+      <guid>https://mkykadir.com/tags/blockchain/</guid>
       <description></description>
     </item>
     <item>
       <title>Asya</title>
-      <link>http://localhost:1313/tags/asya/</link>
+      <link>https://mkykadir.com/tags/asya/</link>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/asya/</guid>
+      <guid>https://mkykadir.com/tags/asya/</guid>
       <description></description>
     </item>
     <item>
       <title>Avrupa</title>
-      <link>http://localhost:1313/tags/avrupa/</link>
+      <link>https://mkykadir.com/tags/avrupa/</link>
       <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/avrupa/</guid>
+      <guid>https://mkykadir.com/tags/avrupa/</guid>
       <description></description>
     </item>
     <item>
       <title>Yunanistan</title>
-      <link>http://localhost:1313/tags/yunanistan/</link>
+      <link>https://mkykadir.com/tags/yunanistan/</link>
       <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/yunanistan/</guid>
+      <guid>https://mkykadir.com/tags/yunanistan/</guid>
       <description></description>
     </item>
     <item>
       <title>Bulgaristan</title>
-      <link>http://localhost:1313/tags/bulgaristan/</link>
+      <link>https://mkykadir.com/tags/bulgaristan/</link>
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/bulgaristan/</guid>
+      <guid>https://mkykadir.com/tags/bulgaristan/</guid>
       <description></description>
     </item>
     <item>
       <title>T10x</title>
-      <link>http://localhost:1313/tags/t10x/</link>
+      <link>https://mkykadir.com/tags/t10x/</link>
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/t10x/</guid>
+      <guid>https://mkykadir.com/tags/t10x/</guid>
       <description></description>
     </item>
     <item>
       <title>Ispanya</title>
-      <link>http://localhost:1313/tags/ispanya/</link>
+      <link>https://mkykadir.com/tags/ispanya/</link>
       <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ispanya/</guid>
+      <guid>https://mkykadir.com/tags/ispanya/</guid>
       <description></description>
     </item>
     <item>
       <title>Huawei</title>
-      <link>http://localhost:1313/tags/huawei/</link>
+      <link>https://mkykadir.com/tags/huawei/</link>
       <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/huawei/</guid>
+      <guid>https://mkykadir.com/tags/huawei/</guid>
       <description></description>
     </item>
     <item>
       <title>Monitör</title>
-      <link>http://localhost:1313/tags/monit%C3%B6r/</link>
+      <link>https://mkykadir.com/tags/monit%C3%B6r/</link>
       <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/monit%C3%B6r/</guid>
+      <guid>https://mkykadir.com/tags/monit%C3%B6r/</guid>
       <description></description>
     </item>
     <item>
       <title>Tamir</title>
-      <link>http://localhost:1313/tags/tamir/</link>
+      <link>https://mkykadir.com/tags/tamir/</link>
       <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/tamir/</guid>
+      <guid>https://mkykadir.com/tags/tamir/</guid>
       <description></description>
     </item>
     <item>
       <title>Türkiye</title>
-      <link>http://localhost:1313/tags/t%C3%BCrkiye/</link>
+      <link>https://mkykadir.com/tags/t%C3%BCrkiye/</link>
       <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/t%C3%BCrkiye/</guid>
+      <guid>https://mkykadir.com/tags/t%C3%BCrkiye/</guid>
       <description></description>
     </item>
     <item>
       <title>Almanya</title>
-      <link>http://localhost:1313/tags/almanya/</link>
+      <link>https://mkykadir.com/tags/almanya/</link>
       <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/almanya/</guid>
+      <guid>https://mkykadir.com/tags/almanya/</guid>
       <description></description>
     </item>
     <item>
       <title>Isviçre</title>
-      <link>http://localhost:1313/tags/isvi%C3%A7re/</link>
+      <link>https://mkykadir.com/tags/isvi%C3%A7re/</link>
       <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/isvi%C3%A7re/</guid>
+      <guid>https://mkykadir.com/tags/isvi%C3%A7re/</guid>
       <description></description>
     </item>
   </channel>

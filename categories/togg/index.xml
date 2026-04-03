@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TOGG on MKY</title>
-    <link>http://localhost:1313/categories/togg/</link>
+    <link>https://mkykadir.com/categories/togg/</link>
     <description>Recent content in TOGG on MKY</description>
     <generator>Hugo</generator>
     <language>tr-TR</language>
     <lastBuildDate>Mon, 22 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/togg/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mkykadir.com/categories/togg/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>↔️ Bu iş olmuş, Togg T10X ile uzun yol</title>
-      <link>http://localhost:1313/2025/12/22/togg-uzun-yol/</link>
+      <link>https://mkykadir.com/2025/12/22/togg-uzun-yol/</link>
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2025/12/22/togg-uzun-yol/</guid>
+      <guid>https://mkykadir.com/2025/12/22/togg-uzun-yol/</guid>
       <description>&lt;p&gt;Yılların hayali, Türkiye&amp;rsquo;nin kendi otomobilini üretmesi. Devrim otomobili ile denedik fakat ne yazık ki olamadı, onlarca yıl sonra tekrar denedik Togg ile, ve bu sefer tam oldu. Bana da nasip oldu bu güzel araca sahip olmak, malzeme kalitesi, yürüyeni, sistemleri, oldukça yeni olan bir marka için gayet konforlu ve sorunsuz bir deneyim sunan bu araç ile, ilk uzun yolumu, elektrikli bir araç ile ilk uzun yol deneyimimden edindiğim Togg izlenimlerimi paylaşmak istedim.&lt;/p&gt;</description>
     </item>
   </channel>
