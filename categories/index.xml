@@ -2,31 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on MKY</title>
-    <link>https://mkykadir.com/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on MKY</description>
     <generator>Hugo</generator>
     <language>tr-TR</language>
-    <lastBuildDate>Wed, 04 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mkykadir.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teknik</title>
+      <link>http://localhost:1313/categories/teknik/</link>
+      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/teknik/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Gezi</title>
-      <link>https://mkykadir.com/categories/gezi/</link>
+      <link>http://localhost:1313/categories/gezi/</link>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://mkykadir.com/categories/gezi/</guid>
+      <guid>http://localhost:1313/categories/gezi/</guid>
       <description></description>
     </item>
     <item>
       <title>Notlar</title>
-      <link>https://mkykadir.com/categories/notlar/</link>
+      <link>http://localhost:1313/categories/notlar/</link>
       <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://mkykadir.com/categories/notlar/</guid>
+      <guid>http://localhost:1313/categories/notlar/</guid>
       <description></description>
     </item>
     <item>
       <title>TOGG</title>
-      <link>https://mkykadir.com/categories/togg/</link>
+      <link>http://localhost:1313/categories/togg/</link>
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://mkykadir.com/categories/togg/</guid>
+      <guid>http://localhost:1313/categories/togg/</guid>
       <description></description>
     </item>
   </channel>

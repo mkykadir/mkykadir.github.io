@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html lang="tr-TR">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+    <meta property="og:site_name" content="MKY">
+    <meta property="og:type" content="article">
+
+    
+    <meta property="og:image" content="img/posts/acik-kaynak-ve-op.jpg">
+    <meta property="twitter:image" content="img/posts/acik-kaynak-ve-op.jpg" />
+    
+
+    
+    <meta name="title" content="💻 Açık kaynak modeli, Optimisim&#39;in Reth ayrışması" />
+    <meta property="og:title" content="💻 Açık kaynak modeli, Optimisim&#39;in Reth ayrışması" />
+    <meta property="twitter:title" content="💻 Açık kaynak modeli, Optimisim&#39;in Reth ayrışması" />
+    
+
+    
+    <meta name="description" content="MKY&#39;nin kişisel blogu">
+    <meta property="og:description" content="MKY&#39;nin kişisel blogu" />
+    <meta property="twitter:description" content="MKY&#39;nin kişisel blogu" />
+    
+
+    <meta property="og:url" content="http://localhost:1313/2026/04/03/acik-kaynak-ve-op/" />
+
+    
+    <meta property="twitter:card" content="summary_large_image" />
+    
+    
+
+    <meta name="keyword"  content="mky, kadir, muhammed kadir yücel, mkykadir, blockchain, ethereum, bitcoin, tech, computer, engineering, software, istanbul">
+    <link rel="shortcut icon" href="/img/favicon.ico">
+
+    <title>💻 Açık kaynak modeli, Optimisim&#39;in Reth ayrışması | Muhammed Kadir Yücel Blog</title>
+
+    <link rel="canonical" href="/2026/04/03/acik-kaynak-ve-op/">
+
+    
+
+    
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+
+    
+    <link rel="stylesheet" href="/css/hugo-theme-cleanwhite.min.css">
+
+    
+    <link rel="stylesheet" href="/css/zanshang.min.css">
+
+    
+    <link rel="stylesheet" href="/css/font-awesome.all.min.css">
+
+    
+    
+
+    
+    <script src="/js/jquery.min.js"></script>
+
+    
+    <script src="/js/bootstrap.min.js"></script>
+
+    
+    <script src="/js/hux-blog.min.js"></script>
+
+    
+    <script src="/js/lazysizes.min.js"></script>
+
+    
+    
+
+</head>
+
+
+
+
+
+<nav class="navbar navbar-default navbar-custom navbar-fixed-top">
+
+    <div class="container-fluid">
+        
+        <div class="navbar-header page-scroll">
+            <button type="button" class="navbar-toggle">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/archive">MKY</a>
+        </div>
+
+        
+        
+        <div id="huxblog_navbar">
+            <div class="navbar-collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="/archive">Arşiv</a>
+                    </li>
+                    
+                        
+                        <li>
+                            <a href="/categories/gezi/">gezi</a>
+                        </li>
+                        
+                        <li>
+                            <a href="/categories/notlar/">notlar</a>
+                        </li>
+                        
+                        <li>
+                            <a href="/categories/teknik/">teknik</a>
+                        </li>
+                        
+                        <li>
+                            <a href="/categories/togg/">togg</a>
+                        </li>
+                        
+                    
+                    
+		    
+		            
+                </ul>
+            </div>
+        </div>
+        
+    </div>
+    
+</nav>
+<script>
+    
+    
+    
+    var $body   = document.body;
+    var $toggle = document.querySelector('.navbar-toggle');
+    var $navbar = document.querySelector('#huxblog_navbar');
+    var $collapse = document.querySelector('.navbar-collapse');
+
+    $toggle.addEventListener('click', handleMagic)
+    function handleMagic(e){
+        if ($navbar.className.indexOf('in') > 0) {
+        
+            $navbar.className = " ";
+            
+            setTimeout(function(){
+                
+                if($navbar.className.indexOf('in') < 0) {
+                    $collapse.style.height = "0px"
+                }
+            },400)
+        }else{
+        
+            $collapse.style.height = "auto"
+            $navbar.className += " in";
+        }
+    }
+</script>
+
+
+
+
+<style type="text/css">
+    header.intro-header {
+        background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.1)),
+            url('/img/posts/acik-kaynak-ve-op.jpg')
+    }
+</style>
+
+<header class="intro-header" >
+
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="post-heading">
+                    <div class="tags">
+                        
+                        <a class="tag" href="/tags/blockchain" title="blockchain">
+                            blockchain
+                        </a>
+                        
+                    </div>
+                    <h1>💻 Açık kaynak modeli, Optimisim&#39;in Reth ayrışması</h1>
+                    <h2 class="subheading"></h2>
+                    <span class="meta">
+                        
+                            2026
+                            
+                            
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+
+
+<article>
+    <div class="container">
+        <div class="row">
+
+            
+            <div class="
+                col-lg-8 col-lg-offset-2
+                col-md-10 col-md-offset-1
+                post-container">
+
+                
+                <p>Açık kaynak yazılım, daha öğrenciyken hevesle takip ettiğim, yürekten desteklediğim bir modeldi. Düşünün birileri binlerce satır kod yazmış ve size Linux gibi güzel bir sistemi ücretsiz bir şekilde sunup paketliyor ve henüz öğrenciyken birçok ödevinizi yapabiliyor, bu kodları okuyup teknik bilginizi geliştirebiliyor hatta kabiliyetiniz varsa siz de düzenlemelerinizi gönderebiliyorsunuz. Üstelik bunu birbirini neredeyse hiç görmeden, tanımadan ortak bir fikir üzerinde düşünüp tasarımlar yapan insanlar birlik içinde yapabiliyor. İlginç bir ütopyanın hayat bulmuş hali adeta&hellip;</p>
+<p>Açık kaynak yazılım illa ücretsiz olacak diye bir durum yok, bu ürünün paketlenmesi, hizmetinin sunulması gayet tabii ücretli olabilir. Örneğin Linux istediği kadar ücretsiz olsun veya sunulsun; kurumsal bir yapı olarak bunun desteğini, kurulum ve bakımını ücretli bir hizmet olarak satın alabilirsiniz veya geliştirdiğiniz bir ürün içerisinde bunu yükleyerek satışını gerçekleştirebilirsiniz. Bu ütopya içerisinde bakınırken aslında açık kaynak sisteminin bir iş modeli olduğunu gözden kaçırıyordum. Piyasanın içine girdikçe, açık kaynak projelere katkılar sundukça aslında bu iş modelinin mantığını daha iyi anlayıp oturttum zihnimde.</p>
+<p>Bu iş modelininin kısa anlatımına geçmeden önce, 2026 Mart ayında Optimism (blockchain rollup ürünü) takımının Geth sürümünün desteğini <a href="https://github.com/ethereum-optimism/optimism/blob/07f9067427e28c05152c55945f7c439a07acee8f/docs/public-docs/notices/op-geth-deprecation.mdx">bitirdiğini</a> ve Reth paketinin içinden de ayrışıp kendi repolarında çalışamalarına devam edeceklerini <a href="https://github.com/paradigmxyz/reth/commit/372802d06d7c61afb09679bd4da8f0f17d0d79f7">duyurdular</a>.</p>
+<h3 id="optimism">Optimism</h3>
+<p>Ethereum blockchain sisteminde, ağı genişletmek daha ucuz veya daha hızlı şekilde hizmet verebilen fakat güvenliğini yine Ethereum&rsquo;un üzerine inşa eden (aslında bridge kadar güvenli), blockchain ürünleri sunulmasına rollup deniliyor. Bu rollup ürünleri için Optimism de bir altyapı sunuyor ve bu altyapı açık kaynak kodlardan oluşan onlarca modülden oluşan karmaşık bir yapı. Bu sistem üzerine kurulmuş bir çok servis sağlayıcıları, bu mimari üzerine çalışan aktif birçok rollup chain bulunuyor.</p>
+<p>Optimism de Ethereum&rsquo;un resmi gerçeklemesi olan <code>geth</code> üzerine kurulu bir <code>op-geth</code> forku sağlıyordu. Daha performanslı ve güvenli özellikler sunma iddiasında olan <code>reth</code> ile optimism ekibi bu ürün içerisinde <code>op-reth</code>i inşa etmeye başladılar. Burada ayrı bir fork yapmak yerine <code>reth</code> kodu içerisinde kendi modüllerini yerleştirdiler. 2026 Şubat ayında hızlı ve ani bir hamleyle, bu modüller Optimism&rsquo;in kendi repolarına ayrıştı ve <code>reth</code>in içerisinden çıkartıldı. 2026 Mart ayında da Optimism, op-geth desteğini bitireceğini ve sadece op-reth desteğine devam edeceğini açıkladı. Geth desteğinin bitmesini anlayabiliyorum fakat Reth ayrışmasında yapılan durum, açık kaynak modelini biraz sorgulamama sebep oldu.</p>
+<h3 id="açık-kaynak-modeli">Açık kaynak modeli</h3>
+<p>Açık kaynak modeli genelde &ldquo;bağışlanan&rdquo; kod gibi gözükse de aslında bu da tamamen bir iş modeli olarak yer alıyor. Bugün Linux içerisinde açık kaynak bir şekilde kendi sürücülerini paylaşan şirketler aslında bu iş modelinden faydalanmaya başlıyorlar.</p>
+<p>Eğer sürücü kapalı kaynak kodu olarak kalsa, şirket her Linux güncellemesinde sürücü hala uyumlu mu diye testler yapmalı ve yeni güncellemelere göre sürücüsünü güncellemesi gerekecekti. Sürücü açık kaynak hale getirildiğinde, çekirdekte yapılan güncellemeler, koddaki bütün modüllerin doğru çalıştığını garanti edecek şekilde güncellenmesi gerekiyor. Üstelik bunu dünyanın herhangi bir yerinden herhangi bir kişi yapıyor.</p>
+<p>Küçük bir firmasınız, başka bir firmaya minik bir Linux bilgisayar tasarladınız ve bir sensör için sürücünüz var. Her Linux çekirdeği güncellemesini takip etmeniz, sürücünüzü güncellemeniz, bu desteği sağlamak çok masraflı ve işin ederini çok kolaylıkla aşacaktır. Bu noktada açık kaynak iş modeli benimserseniz, sürücünüz ile çekirdek uyumunu dünyanın dört bir yanından farklı insanlar sizin için idame ettirecektir.</p>
+<p>Bu hususta beni şaşırtan nokta ise Optimism ekibi, <code>reth</code>içerisinde modüllerini saklayarak genel <code>reth</code>güncellemelerine destek sağlayan herkesin emeğinden ve vaktinden faydalanmış oldu. Şimdi iş modeli ve şirketin kazançlarının düşünülmesi gereği modüllerini, yine açık kaynak olacak şekilde, kendi repolarına taşıdılar. Fakat taşınan kısımda bu kod sırf <code>reth</code> içinde yer alıyor diye destek vermiş, değişiklik yapmış insanların kodları da yer alıyor olabilir. Şimdilik lisanslama noktasında uyum var fakat ileride neler olur bilinmez.</p>
+<p>Açık kaynak modelini hala seviyorum ve destekliyorum fakat bu gibi durumlar, başta basit görünse de; emek ve iş etiğin noktasında gözden kaçan birçok ince detayı içeriyor.</p>
+
+
+                
+
+                
+                <hr>
+                <ul class="pager">
+                    
+                    <li class="previous">
+                        <a href="/2026/02/04/irak/" data-toggle="tooltip" data-placement="top" title="🇮🇶 Dededen kalma miras, Irak">&larr;
+                            Previous Post</a>
+                    </li>
+                    
+                    
+                </ul>
+                
+
+                
+
+
+
+
+            </div>
+
+            
+            
+            <div class="
+                col-lg-2 col-lg-offset-0
+                visible-lg-block
+                sidebar-container
+                catalog-container">
+                <div class="side-catalog">
+                    <hr class="hidden-sm hidden-xs">
+                    <h5>
+                        <a class="catalog-toggle" href="#">CATALOG</a>
+                    </h5>
+                    <ul class="catalog-body"></ul>
+                </div>
+            </div>
+            
+
+            
+            <div class="
+                col-lg-8 col-lg-offset-2
+                col-md-10 col-md-offset-1
+                sidebar-container">
+
+                
+                
+
+                
+                
+            </div>
+        </div>
+    </div>
+</article>
+
+
+
+
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <ul class="list-inline text-center">
+                    
+                    
+                    
+                    
+                    
+
+		            
+                    
+                    
+                    <li>
+                        <a target="_blank" href="https://github.com/mkykadir">
+                            <span class="fa-stack fa-lg">
+                                <i class="fas fa-circle fa-stack-2x"></i>
+                                <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+		            
+                    
+                    
+                    
+                    <li>
+                        <a target="_blank" href="https://www.linkedin.com/in/mkykadir">
+                            <span class="fa-stack fa-lg">
+                                <i class="fas fa-circle fa-stack-2x"></i>
+                                <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+		           
+                    
+                    
+                    
+                    
+                    
+                    
+            
+            
+            
+           
+             </ul>
+		<p class="copyright text-muted">
+                    2026 &copy; Muhammed Kadir Yücel
+                    
+                    
+                </p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+
+
+<script>
+    function loadAsync(u, c) {
+      var d = document, t = 'script',
+          o = d.createElement(t),
+          s = d.getElementsByTagName(t)[0];
+      o.src = u;
+      if (c) { o.addEventListener('load', function (e) { c(null, e); }, false); }
+      s.parentNode.insertBefore(o, s);
+    }
+</script>
+
+
+
+
+
+
+<script>
+    
+    if($('#tag_cloud').length !== 0){
+        loadAsync("/js/jquery.tagcloud.js",function(){
+            $.fn.tagcloud.defaults = {
+                
+                color: {start: '#bbbbee', end: '#0085a1'},
+            };
+            $('#tag_cloud a').tagcloud();
+        })
+    }
+</script>
+
+
+<script>
+    loadAsync("https://cdn.jsdelivr.net/npm/fastclick@1.0.6/lib/fastclick.min.js", function(){
+        var $nav = document.querySelector("nav");
+        if($nav) FastClick.attach($nav);
+    })
+</script>
+
+
+
+
+
+
+<script type="text/javascript">
+    function generateCatalog(selector) {
+
+        
+        
+        
+        
+            _containerSelector = 'div.post-container'
+        
+
+        
+        var P = $(_containerSelector), a, n, t, l, i, c;
+        a = P.find('h1,h2,h3,h4,h5,h6');
+
+        
+        $(selector).html('')
+
+        
+        a.each(function () {
+            n = $(this).prop('tagName').toLowerCase();
+            i = "#" + $(this).prop('id');
+            t = $(this).text();
+            c = $('<a href="' + i + '" rel="nofollow" title="' + t + '">' + t + '</a>');
+            l = $('<li class="' + n + '_nav"></li>').append(c);
+            $(selector).append(l);
+        });
+        return true;
+    }
+
+    generateCatalog(".catalog-body");
+
+    
+    $(".catalog-toggle").click((function (e) {
+        e.preventDefault();
+        $('.side-catalog').toggleClass("fold")
+    }))
+
+    
+
+
+    loadAsync("\/js\/jquery.nav.js", function () {
+        $('.catalog-body').onePageNav({
+            currentClass: "active",
+            changeHash: !1,
+            easing: "swing",
+            filter: "",
+            scrollSpeed: 700,
+            scrollOffset: 0,
+            scrollThreshold: .2,
+            begin: null,
+            end: null,
+            scrollChange: null,
+            padding: 80
+        });
+    });
+</script>
+
+
+
+
+
+
+</body>
+</html>
