@@ -6,8 +6,15 @@
     <description>Recent content in T10x on MKY</description>
     <generator>Hugo</generator>
     <language>tr-TR</language>
-    <lastBuildDate>Mon, 22 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mkykadir.com/tags/t10x/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>💡 T10X İç Aydınlatma Çözümü</title>
+      <link>https://mkykadir.com/2026/04/07/t10x-ic-aydinlatma/</link>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://mkykadir.com/2026/04/07/t10x-ic-aydinlatma/</guid>
+      <description>&lt;p&gt;Artık araçlarımız da yazılımları ile tanımlanıyor ve temel birçok özellik yazılımın kararlı çalışmasına bağlı. Togg ekibi henüz yazılım güncellemeleri konusunda çok yavaş olsa da güzel, Togg&amp;rsquo;un yardımsever bir topluluğu var. Bu topluluğa katkım olması açısından iç aydınlatma problemine çözüm buldum.&lt;/p&gt;&#xA;&lt;p&gt;Her araçta, araç kapısı açıldığında veya araç parka alındığında iç aydınlatma yanar ve araçtan önünüzü görerek inersiniz. Togg T10X&amp;rsquo;lerde 1.5 ve 1.6 sürümlerinde hala güncellemesi gelmeyen bir problem var. Araç bu şekilde iç aydınlatmalarını yakamıyor ve karanlıkta iniyorsunuz, fakat araç ekranında ışıklar yanıyor gibi gözüküyor. Yani yazılım yaktığını sanıyor ama ışıklar yanmıyor.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>↔️ Bu iş olmuş, Togg T10X ile uzun yol</title>
       <link>https://mkykadir.com/2025/12/22/togg-uzun-yol/</link>
