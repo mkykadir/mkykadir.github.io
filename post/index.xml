@@ -1,180 +1,199 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on MKY</title>
-    <link>https://mkykadir.com/post/</link>
-    <description>Recent content in Posts on MKY</description>
-    <generator>Hugo</generator>
-    <language>tr-TR</language>
-    <lastBuildDate>Tue, 07 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mkykadir.com/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>💡 T10X İç Aydınlatma Çözümü</title>
-      <link>https://mkykadir.com/2026/04/07/t10x-ic-aydinlatma/</link>
-      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://mkykadir.com/2026/04/07/t10x-ic-aydinlatma/</guid>
-      <description>&lt;p&gt;Artık araçlarımız da yazılımları ile tanımlanıyor ve temel birçok özellik yazılımın kararlı çalışmasına bağlı. Togg ekibi henüz yazılım güncellemeleri konusunda çok yavaş olsa da güzel, Togg&amp;rsquo;un yardımsever bir topluluğu var. Bu topluluğa katkım olması açısından iç aydınlatma problemine çözüm buldum.&lt;/p&gt;&#xA;&lt;p&gt;Her araçta, araç kapısı açıldığında veya araç parka alındığında iç aydınlatma yanar ve araçtan önünüzü görerek inersiniz. Togg T10X&amp;rsquo;lerde 1.5 ve 1.6 sürümlerinde hala güncellemesi gelmeyen bir problem var. Araç bu şekilde iç aydınlatmalarını yakamıyor ve karanlıkta iniyorsunuz, fakat araç ekranında ışıklar yanıyor gibi gözüküyor. Yani yazılım yaktığını sanıyor ama ışıklar yanmıyor.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>💻 Açık kaynak modeli, Optimisim&#39;in Reth ayrışması</title>
-      <link>https://mkykadir.com/2026/04/03/acik-kaynak-ve-op/</link>
-      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://mkykadir.com/2026/04/03/acik-kaynak-ve-op/</guid>
-      <description>&lt;p&gt;Açık kaynak yazılım, daha öğrenciyken hevesle takip ettiğim, yürekten desteklediğim bir modeldi. Düşünün birileri binlerce satır kod yazmış ve size Linux gibi güzel bir sistemi ücretsiz bir şekilde sunup paketliyor ve henüz öğrenciyken birçok ödevinizi yapabiliyor, bu kodları okuyup teknik bilginizi geliştirebiliyor hatta kabiliyetiniz varsa siz de düzenlemelerinizi gönderebiliyorsunuz. Üstelik bunu birbirini neredeyse hiç görmeden, tanımadan ortak bir fikir üzerinde düşünüp tasarımlar yapan insanlar birlik içinde yapabiliyor. İlginç bir ütopyanın hayat bulmuş hali adeta&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🇮🇶 Dededen kalma miras, Irak</title>
-      <link>https://mkykadir.com/2026/02/04/irak/</link>
-      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://mkykadir.com/2026/02/04/irak/</guid>
-      <description>&lt;p&gt;Aklımızda savaş, yokluk, insanlık dramı ve işgal ile yer edinmiş bahsedilirken, birçok problemin ve sorunun kaynağı olarak görülen fakat tarihine bakıldığında bir çok medeniyetin ilk kurulduğu, Fırat ve Dicle nehirlerinin bereketiyle hep hareketli hep insanın var olduğu yörelere; Irak&amp;rsquo;a, başkentine yani Bağdat&amp;rsquo;a doğru gitmek aynı zamanda İslam tarihi açısından da çok önemli olayların yaşandığı bu topakları görmek hissetmek ve tarihi bir de yerinde dinlemek üzere çıktım yola.&lt;/p&gt;&#xA;&lt;p&gt;Yaptığım birçok rotada, haberlerde ve medyada anlatılandan çok daha farklı olduğunu gördüm gittiğim her noktada. Kimi zaman hep güzel olarak yansıtılan yerlerin aslında kamera arkasında ne kadar kötü olduğunu, kameralara kötü olarak yansıtılanların ise ne kadar güzel olduğunu gördüm. Bunun en çarpıcı örneği benim için İran olmuştur hep. Bağdat&amp;rsquo;a da benzer bir beklentiyle gittim fakat hem işgalin hem savaşların hem de insanların birbirlerine olan zulümlerinin yorgunluğu sebebiyle tam ortasını buldum. Ne anlatılmayan kadar güzel ne de anlatılan kadar kötü&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🗓️ Takvimin son yaprağı</title>
-      <link>https://mkykadir.com/2025/12/31/takvimin-son-yapragi/</link>
-      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://mkykadir.com/2025/12/31/takvimin-son-yapragi/</guid>
-      <description>&lt;p&gt;Zaman, soyut bir kavram, fani dünyanın bir parçası ve bu soyutluğu daha yaşanabilir kılmak adına saat, gün, ay ve yıl gibi kavramlar üretmişiz. Kimi günleri hafta sonu belirleyip tatil yapmış ve bu sisteme o kadar alışmışız ki &amp;ldquo;Pazartesi sendromu&amp;rdquo; gibi bir kavram bile üretmişiz. Halbuki, doğada Pazartesi yok, hafta sonu tatili yok, ay sonu veya yıl başı gibi kavramların hiçbir karşılığı yok. Zaman kendi akışında olması gerektiği gibi akarken, tüm mahlukat bu akışta yapması gerekenleri yapmak peşinde. Bundan 200 yıl önce bu topraklarda günler, aylar ve seneler çok farklı kavramlardaydı, zaman o kadar soyut ki tanımlamasını bile çeşitli takvimlerle yapmış insanoğlu bunca zamandır.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🇬🇷 Hem yakın hem uzak, Yunanistan</title>
-      <link>https://mkykadir.com/2025/12/24/yunanistan/</link>
-      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://mkykadir.com/2025/12/24/yunanistan/</guid>
-      <description>&lt;p&gt;Bulgaristan&amp;rsquo;ın keyifli otobanlarından, Sofya&amp;rsquo;dan Selanik&amp;rsquo;e doğru ayarladım navigasyonumu. Sınır kapısının hemen arkası, Yunanistan otobanı. Keyifli, düzgün fakat ıssız&amp;hellip; Yunanistan hala eski tip nakit gişe mantığında işletiyor otobanlarını, gişelerde durup kredi kartı veya nakit ödeme ile devam ediyorsunuz. Hızlı geçiş sistemli gişelerine de yeni yeni başlıyorlar. Bulgaristan&amp;rsquo;ın o vinyet temelli gişesiz otobanlarından sonra biraz geride kalmış hissettirdi. Yollar çok güzel ama araca benzin almayı geçtim dinlenmek için geçebileceğiniz basit bir cep bile yok Yunan otobanlarında. Sadece gaza bas ve yola devam et mantığı var. Selanik&amp;rsquo;e kadar şarjım çok rahat yeter, yola devam&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>↔️ Bu iş olmuş, Togg T10X ile uzun yol</title>
-      <link>https://mkykadir.com/2025/12/22/togg-uzun-yol/</link>
-      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://mkykadir.com/2025/12/22/togg-uzun-yol/</guid>
-      <description>&lt;p&gt;Yılların hayali, Türkiye&amp;rsquo;nin kendi otomobilini üretmesi. Devrim otomobili ile denedik fakat ne yazık ki olamadı, onlarca yıl sonra tekrar denedik Togg ile, ve bu sefer tam oldu. Bana da nasip oldu bu güzel araca sahip olmak, malzeme kalitesi, yürüyeni, sistemleri, oldukça yeni olan bir marka için gayet konforlu ve sorunsuz bir deneyim sunan bu araç ile, ilk uzun yolumu, elektrikli bir araç ile ilk uzun yol deneyimimden edindiğim Togg izlenimlerimi paylaşmak istedim.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🇧🇬 İlklerin rotası, Bulgaristan</title>
-      <link>https://mkykadir.com/2025/12/22/bulgaristan/</link>
-      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://mkykadir.com/2025/12/22/bulgaristan/</guid>
-      <description>&lt;p&gt;Hem elektrikli hem de Togg ile ilk uzun yolculuğumu yapmak isteğiyle, hem de yurtdışına araba ile çıkmayı deneyimlemek için koyuldum bu rotaya. Gittiğim yerler belki mevsimine uygun olmasa da bu süreci deneyimlemek, aynı zamanda bu toprakları da keşfetmek, oraların insanlarını görmek üzere çıktım yola.&lt;/p&gt;&#xA;&lt;p&gt;Komşumuz Bulgaristan&amp;rsquo;a, uzak bir kuşaktan da olsa ata toprağına doğru Kırklareli üzerinden Dereköy sınır kapısına geçtim. Kafamdaki rota, bu kapı üzerinden Burgaz ve Varna&amp;rsquo;ya ulaşmak, daha sonra Filibe ve Sofya ile Bulgaristan&amp;rsquo;ı tamamlayıp, Selanik&amp;rsquo;e geçmek ve oradan tekrar İstanbul&amp;rsquo;a dönerek tam bir daireyi tamamlamak.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🇪🇸 Akıllı şehir, Barselona</title>
-      <link>https://mkykadir.com/2025/11/15/barselona/</link>
-      <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://mkykadir.com/2025/11/15/barselona/</guid>
-      <description>&lt;p&gt;Diğer yazılarım üzerine çalışmaya devam ederken soğuk kış aylarının serinliği de hafiften hissedilirken biraz sıcak yörelere, İspanya&amp;rsquo;da hedefimdeki son durağım olan Barselona&amp;rsquo;ya doğru bir rota belirledim kendime. Üniversite zamanımda, İsbak&amp;rsquo;da part-time çalışırken İstanbul&amp;rsquo;u daha akıllı bir şehir yapmak üzerine araştırmalar yaptığım dönemlerde yatırımları ve dönüşümleri ile tarihten beri sürekli kendisinden akıllı bir şehir olarak söz ettirmiş Barselona hakkında birçok makale okumuş araştırmalar yapmıştım, gidip görmek bu günlere nasipmiş.&lt;/p&gt;&#xA;&lt;p&gt;Endülüs bölgesine olan gezimin ardından ikinci İspanya yolculuğum oldu Barselona. Uydu görüntüsünden baktığınızda cetvel gibi dizilmiş nizami şehir yapısının içinde bulunan muhteşem mimarili o güzel binalar karşılıyor sizi direkt olarak havalimanı metrosundan indiğiniz gibi. Katalan bölgesinin başkenti burası, şehirde birçok noktada Katalanca tabelalar ve seslendirmeler duyabilirsiniz fakat bölgede çoğunlukla insanlar İspanyolca konuşuyor ve İngilizce&amp;rsquo;yi de biliyorlardı.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🖥️ Huawei Mateview Tamiri</title>
-      <link>https://mkykadir.com/2025/09/04/huawei-mateview-tamir/</link>
-      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://mkykadir.com/2025/09/04/huawei-mateview-tamir/</guid>
-      <description>&lt;p&gt;Her gün saatlerce işim için severek aldığım ve memnuniyetle kullandığım Huawei Mateview 28.2&amp;quot; monitörüm bozuldu, ekranda görüntü var fakat ekran arka ışığı yok. Parlaklık ayarı yapamıyorum ve doğal olarak da monitör kullanılamaz durumda.&lt;/p&gt;&#xA;&lt;p&gt;Garantisi bitmiş olmasına rağmen henüz çok yeni bir monitördü ve hemen yetkili servisine götürdüm ve piyasadaki birçok monitörden daha çok ücret isteyerek anakartını değiştirmek istediler. Tam ₺12.000&amp;rsquo;e monitörüm tamir olacakmış&amp;hellip; Kısacası monitörünü çöpe at yenisi al demekten başka bir şey değil&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🛣️ Yolda Olmak</title>
-      <link>https://mkykadir.com/2025/08/31/yolda-olmak/</link>
-      <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://mkykadir.com/2025/08/31/yolda-olmak/</guid>
-      <description>&lt;p&gt;Yolun kendisi mi yoksa hedefe ulaşmak mıdır güzel olan? Hedefe ulaşmanın adımlarından birisi, yolda olmak; yolda olmak için karar vermek, adım atmak gerek. Fakat ademoğlu onu hedefine götüren yola değil de hedefin kendisine odaklıdır çoğu zaman. Yolu güzelleştirmeyi, çiçeklerle bezemeyi unutur devam eder. Fakat kimi yollar vardır ki, yolda olmanın romantizmi yoktur, kendi tercihinizle giremediğiniz veya seçme özgürlüğünüzün olmadığı yollar, kimi zaman da çok istediğiniz ve gittiğiniz yoldan çıkmanız gerekenler&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🇹🇷 Eskilerden notlar, Trabzon</title>
-      <link>https://mkykadir.com/2025/07/05/trabzon/</link>
-      <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://mkykadir.com/2025/07/05/trabzon/</guid>
-      <description>&lt;p&gt;Büyüklerimiz, iyisiyle kötüsüyle bizlere anlattıkça biliriz toprağımızı, köyümüzü, oralara gidip temas etmek isteriz havasını solumak isteriz. Trabzon da benim için böyle oldu, çok önceleri gitmiştim yaylamıza, ne telefon ne televizyon çeken dingin o güzel yeşil yörelere. Tabii o zamanlar bu dinginliğin değerini anlamak pek mümkün değildi fakat bu sefer en ihtiyacım olan zamanda gittim o dingin yörelere.&lt;/p&gt;&#xA;&lt;p&gt;Aslında Trabzon demek biraz yanlış oluyor, düzeltmeyi yapalım, Of&amp;rsquo;a gittim 😊 Of merkezden 40 dakika mesafede olan yaylamıza düştü yolum, ata toprağına o güzel yeşil yörelere çıktım, 2200 metre rakıma. Gelişen teknoloji ile eskiden telefon çekmeyen buralarda artık 4.5G internet ile kuş ve sus sesleri eşliğinde çalışmalarımı yapabildim ve gece çöken sis ve soğuktan dolayı sobada yanan odunun çıtır çıtır sesleri eşliğinde.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🇲🇹 Merħba Malta </title>
-      <link>https://mkykadir.com/2025/05/01/malta-gezisi/</link>
-      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://mkykadir.com/2025/05/01/malta-gezisi/</guid>
-      <description>&lt;p&gt;Malta da nereden çıktı, bilmiyorum, programsız geziler ekstra bir keyifli oluyor&#xA;dedim ve koyuldum yola. Minik bir ada, İstanbul anadolu yakasından hallice. Fakat minik bir&#xA;yanlış hesap ile 4 günde bitirilebilecek bu tatlı yere 7 gün ayırmış oldum.&lt;/p&gt;&#xA;&lt;p&gt;Aktarmasız olarak yalnızca THY ile gidilen Malta&amp;rsquo;ya sezondan önce gitmiş olmama rağmen&#xA;farklı bölgelerden aktarmalı gelenlerle uçak tam dolu.&lt;/p&gt;&#xA;&lt;p&gt;Daha pasaport kontrolünde Akdeniz insanının sıcaklığı ile karşılandım.&#xA;Adada ulaşım otobüslerle çok rahat, 7 günlük bilet alıp yoluma&#xA;devam ettim. &lt;a href=&#34;https://www.publictransport.com.mt/&#34;&gt;Resmi sitesinden&lt;/a&gt; bilgi alabilirsiniz.&#xA;Kapıdan dışarı adım attığım gibi güzel bir çöl sıcağı eşliğinde yeşil renkli İETT&amp;rsquo;e binip yola&#xA;koyuldum.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🇺🇿 İlim diyarı Özbekistan</title>
-      <link>https://mkykadir.com/2025/04/01/ozbekistan-gezisi/</link>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://mkykadir.com/2025/04/01/ozbekistan-gezisi/</guid>
-      <description>&lt;p&gt;Bizi aşağı çeken şeylere daha çok değer veriyoruz her geçen gün, pahası olan nesnelere paha biçilemez takısı takmaya çalışıyoruz, herkeste olanın bizdeki halinin en öznel olduğuna kendimize inandırıyoruz. Tarih hakkında içerikler izleyip, okudukça ve gezdikçe görüyorum ki bilginin ve ilmin paha biçilmez değerini bulanlar ihya olmuşlar ve paha biçilmezin peşinde koşturanlar büyümüşler. İlmin peşinden koşan, ilim insanına değer veren ve ilme merkez olan devletler hem toprakları hem gönülleri kazanmışlar, kısaca  &amp;ldquo;Oku&amp;rdquo; emrine riayet edenler hükmetmişler.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🇹🇷 Dinlendirici şehir, Mersin</title>
-      <link>https://mkykadir.com/2025/03/17/mersin/</link>
-      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://mkykadir.com/2025/03/17/mersin/</guid>
-      <description>&lt;p&gt;Gezimde en şaşırdığım ve en dinlediğim durak Mersin oldu, sakinliği, yeşilinin ve mavisinin güzelce harmanlandığı o sahil parkında, şehrin o güzel dizaynında dinlenmemek mümkün değil. Mersin&amp;rsquo;in bu kadar güzel olduğunu bilmiyordum, tatlı ve Mart ayı sebebiyle sakinliğiyle çokça dinlendiğim güzel bir durak oldu.&lt;/p&gt;&#xA;&lt;p&gt;Adana üzerinden Mersin&amp;rsquo;e geçerken, yol üzerinde herkesin uğradığı ve poz verdiği meşhur Gülek Kalesi&amp;rsquo;nin oradaki uçurum kayasında bir poz ile başladı Mersin yolculuğum. Önce Tarsus kentinde ve merkezinde turladıktan sonra, Roma döneminin bu önemli kentinde biraz dinlendim ve daha sonra Mersin&amp;rsquo;in şehir merkezine doğru çıktım yola. Mersin ülkemiz için büyük ve önemli limanıyla karşıladı beni, onun o yoğun trafiği ne yazık ki şehirden ayrışamamış ve ticaretinde olan uzun yol yolcusu tır şoförleri ile keyfi gezen bizler birbirine karışmış bir halde trafikte ilerledik.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🇹🇷 Keşmekeş, Adana</title>
-      <link>https://mkykadir.com/2025/03/15/adana/</link>
-      <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://mkykadir.com/2025/03/15/adana/</guid>
-      <description>&lt;p&gt;Adana, zamanından beri hep büyüklüğü, bereketi ve zenginliği ile adından söz ettirmiş yetiştirdiği ürünlerle ülkemize çok büyük katkıları olmuş güzel şehir. Türkiye&amp;rsquo;nin tarım, sanayi ve ticaret alanında da varlıklı bir çok ailesinin memleketi olan bu bölge bunca varlıklı aileye rağmen bence yeteri kadar yatırımını alamamış ve güzelleştirememiş.&lt;/p&gt;&#xA;&lt;p&gt;Gaziantep, Adana ve Mersin rotamın başlangıcı aslında yeni açılan Uluslararası Çukurova Havalimanı olmuştu fakat gezimin ilk durağı Gaziantep oldu. Havalimanı daha yeni açılmış, oldukça güzel ve büyük ve aslında bu yöreye yakışır bir uluslararası havalimanı olmuştu. Fakat Gaziantep&amp;rsquo;den sonra Adana&amp;rsquo;ya gelince, şehrin merkezi, keşkmekeşi, hijyenin düşüklüğü ve karmaşası beni şaşırttı. Üstelik bu kadar varlıklı ailelerin memleketi olup şehir bu halde bakımsız bulmak beni oldukça üzdü. Seyhan nehrinin şehre getirdiği ferahlık, bereket ve güzel renkler olmasa şehrin durumu pek iç açıcı değildi.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🇹🇷 Güzel şehir, Gaziantep</title>
-      <link>https://mkykadir.com/2025/03/14/gaziantep/</link>
-      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://mkykadir.com/2025/03/14/gaziantep/</guid>
-      <description>&lt;p&gt;Türkiye&amp;rsquo;nin doğusu, güneydoğusu her gittiğimde güzelliğiyle beni kendine tekrar tekrar hayran bırakan şehirleriyle şaşırtıyor. İnsanının güzelliği, şehirlerine yansımış. Birçok alt ve üst yapıya yeni yeni sahip olan bu şehirler aslında en son teknolojiyle tanışarak kuruluyor ve belkide büyükşehirlerin yenilenemeyen yapıları için güzel örnekler teşkil ediyor. Gastronomisiyle meşhur, medeniyetlere ev sahipliği yapmış değerli bir bölgenin parçası olan Gaziantep de bana aynı şekilde hissettirdi. Yeni kaymak gibi yollarına eşlik eden Gaziray raylı sistemi, şehrin genişleyen kısımlarında yapılan düzenli kentleşme, bu şehrin akılla yürütülüp tasarlandığını hissettiriyor.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🇩🇪 Hız sınırı yok, Güney Almanya</title>
-      <link>https://mkykadir.com/2025/02/10/guney-almanya/</link>
-      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://mkykadir.com/2025/02/10/guney-almanya/</guid>
-      <description>&lt;p&gt;Otomobilin merkezine doğru, hız sınırı olmayan bir yolculuk, emniyet kemerlerini takıyor ve yola çıkıyoruz, hedef Güney Almanya!&lt;/p&gt;&#xA;&lt;p&gt;Avrupa&amp;rsquo;da, özellikle Almanya&amp;rsquo;da araba kullanıyor olmak, o güzel, hız sınırı olmayan ücretsiz otobanlarını hissetmek ve oraya teker değdirmek hayallerimden bir tanesiydi. Hamdolsun ki bu gezimde nasip oldu, karlı kış gününde güzel bir Almanya rotası. İlk hedef otomobilin başkenti Stuttgart&amp;rsquo;a, Mercedes&amp;rsquo;in müzesine oldu. Aynı şekilde Mercedes&amp;rsquo;in komşusu Porsche&amp;rsquo;e de bir ziyaretin ardından şehrin keşfine geldi sıra.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🇨🇭 Luzern neşesi, İsviçre</title>
-      <link>https://mkykadir.com/2025/01/12/isvicre-luzern/</link>
-      <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://mkykadir.com/2025/01/12/isvicre-luzern/</guid>
-      <description>&lt;p&gt;Gerek iş gerek gezmek olsun birçok defa İsviçre&amp;rsquo;ye gidip farklı mevsimlerinde gezmek, orada bulunmak fırsatım oldu. Güzel bir sakinliği var bu ülkenin, aslında çok hareketliler, yolları trenleri hiçbir zaman durmuyor ve sürekli insanlar bir yerden bir yere gidiyorlar fakat trenlerde dört kişilik koltuklarda tek başınıza öğlen yemeğinizi yerken, güzel yeşillikler arasında süzülen trenin bir anda gölün yanından geçişini gördüğünüzde, dağların tepesinde yavaş yavaş tutan kar beyazlığı ile kartpostallık görüntü eşliğinde varıyorsunuz nereye gidecekseniz.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🇷🇺 Kozmopolit, Moskova</title>
-      <link>https://mkykadir.com/2024/06/17/moskova/</link>
-      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://mkykadir.com/2024/06/17/moskova/</guid>
-      <description>&lt;p&gt;En ufak bir fikrim yok Moskova hakkında, merak ediyorum ve uygun bir tarihle birlikte uygun bir uçuş buluyorum. Rota Moskova, Haziran ayının sonları yaklaşıyor ve kuzeye gidildikçe günler uzuyor ama bu kadar uzadığını bilmiyordum.&lt;/p&gt;&#xA;&lt;p&gt;Ukrayna savaşının havacılığa etkilerinden bi&amp;rsquo;haber şekilde Rus havayollarından aldım uçak biletimi. Savaş dolayısıyla Rus şirketleri, güvenlik maksatlı olarak rotada kısa olan Avrupa hava sahasını kulllanamadıkları için Karadeniz&amp;rsquo;de Türkiye&amp;rsquo;ye parallel bir şekilde ilerleyip daha sonra Moskova&amp;rsquo;ya dönüyor ve saatlerce süren bir uçuşun ardından iniyorum Moskova&amp;rsquo;ya. Yine Rus havalimanını tercih ettiğim için uçaktaki tek turist olarak, yine turistik olmayan bir havalimanına iniş yapıyorum ve sınır polisi bile şaşkın bir şekilde kontrol ediyor vizemi. E-Vize sistemiyle hızlıca alınıyor Rus vizesi, havalimanından otelime hızlı trenin son seferiyle geçerek ve gece 1&amp;rsquo;de otel odama vardım.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🇹🇷 Bastığın yerleri toprak diyerek geçme, Çanakkale</title>
-      <link>https://mkykadir.com/2024/06/01/canakkale/</link>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://mkykadir.com/2024/06/01/canakkale/</guid>
-      <description>&lt;p&gt;Bu vatan, bu devlet kolay ayakta kalmadı. Tarih derslerinde belki de işlenmesi gereken en önemli detay her zaman atlanıyor ve çocuklarımıza, gençlerimize Türk devletinin hep var olduğunu anlatmıyoruz. Anlatım tarzı devletin yıkılıp tekrar kurulduğu şeklinde oluyor ve bu yanlış. Osmanlı Devleti&amp;rsquo;inin ardından, Türk devleti yeni dünya düzenine ayak uydurarak yönetim biçimini değiştirmiş ve cumhuriyet yönetimine geçmiştir. Fakat bu geçiş öyle kolaylıkla olmamış ve devletimizi bölüp vatan topraklarımızı ele geçirmeye çalışan, işgal için gelen yabancılarla çetin mücadelelerle geçmiş. Bu çetin mücadelenin en sert geçen yerlerinden Çanakkale&amp;rsquo;e, bastığımız toprakların neden vatan olduğunu anlamaya gidiyorum.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🇦🇿 Rızık nereden gelir, Azerbaycan</title>
-      <link>https://mkykadir.com/2024/03/01/azerbaycan-gezisi/</link>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://mkykadir.com/2024/03/01/azerbaycan-gezisi/</guid>
-      <description>&lt;p&gt;Şuşa&amp;rsquo;nın işgalden kurtuluşunun ardından bizden olan bu güzel diyarları ziyaret için çıktım yola. Gitmişken sadece Bakü&amp;rsquo;yü değil her noktasını göreyim niyetiyle yaptım programımı. Her yolculuk gibi bu yolculuk da, zihnimde idealize ettiğimden çok farklı gerçeklerle karşılaştırdı beni ve tekrar tekrar Allah&amp;rsquo;ın ayetlerini idrak etmemi sağladı.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;De ki: Yeryüzünde gezip dolaşın da, Allah ilk baştan nasıl yaratmış bir bakın. İşte Allah bundan sonra (aynı şekilde) ahiret hayatını da yaratacaktır. Gerçekten Allah her şeye kadirdir.&#xA;&lt;strong&gt;Ankebût, 20.&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🇪🇸 İslam Medeniyeti, İspanya</title>
-      <link>https://mkykadir.com/2023/10/17/endulus-ispanya-gezisi/</link>
-      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://mkykadir.com/2023/10/17/endulus-ispanya-gezisi/</guid>
-      <description>&lt;p&gt;İslam medeniyeti ve İspanya, iki birbirinden uzak kavram gibi geliyor kulağa ilk anda; fakat İslam, İspanya&amp;rsquo;nın güneyine yani Endülüs bölgesine 800 yılı aşkın süre boyunca hakim oldu ve medeniyetini bu bölgelere yerleştirdi. Ne oldu da o noktadan bu noktaya geldik?&lt;/p&gt;&#xA;&lt;p&gt;Madrid&amp;rsquo;den Malaga&amp;rsquo;ya kadar olan bir rotaydı bu, İslam medeniyetinden kalanlar, İspanyolların bundan öğrendikleri ve güzel İspanya topraklarını karış karış gezdiğim keyifli bir rotaydı. &lt;a href=&#34;https://maps.app.goo.gl/ZmwkTL9kMuQTRe6a7&#34;&gt;Madrid İslam Merkezinde&lt;/a&gt; keyifli bir yemek ile başladı yolculuğum. Madrid biraz karmaşık ve değişik bir bölgeydi, özellikle Müslümanlara karşı ırkçılığa maruz kalınabilen bir yer. Göçmenin çok olduğu ama göçmenlerin de pek sevilmediği bir bölge. Meydanları, alışveriş yerleri ve büyük kiliseleri ile geçen bir başkent turunun ardından, Toledo&amp;rsquo;ya doğru yola koyuldum.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🇹🇷 Mezopotamya bereketi, Diyarbakır</title>
-      <link>https://mkykadir.com/2022/09/16/diyarbakir/</link>
-      <pubDate>Fri, 16 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://mkykadir.com/2022/09/16/diyarbakir/</guid>
-      <description>&lt;p&gt;Klasik yakıştırmayla başlayalım bu güzel şehre, doğunun Paris&amp;rsquo;i derler Diyarbakır&amp;rsquo;a hep ama ben çok daha güzellikler farkettim bu güzel diyarda. Diyarbakır, planımda olmayan bir sürpriz oldu benim için, pek de istemeyerek bir şekilde tamamladığım yüksek lisansım süresince yazdığım makalemin konferans sunumunu yapmak için Dicle Üniversitesi&amp;rsquo;ne gittim. Üniversiteye gitmişken, bu güzel şehri gezmek maksadıyla da yaptım hazırlıklarımı.&lt;/p&gt;&#xA;&lt;p&gt;İlk olarak bu yöreleri terörden temizleyen, bu uğurda geliştirdiği araç ve teknolojiler ile gecelerini gündüzlerine katan, canları pahasına kendilerini feda eden kahraman gazi ve şehitlerimize, bu yörelere yatırımlar yapıp daha da güzelleştiren yöneticiler ve devletlerimize sonsuz teşekkürler. Bu yörede huzur ve güven içinde gezip keşfetmemi sağlayan Rabbime sonsuz şükürler olsun.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🇹🇷 İnsanı güzel, Mardin</title>
-      <link>https://mkykadir.com/2021/12/12/mardin/</link>
-      <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://mkykadir.com/2021/12/12/mardin/</guid>
-      <description>&lt;p&gt;İstanbul&amp;rsquo;dan en uzak olduğum noktadayım ilk defa, uçak tekeri yere değdi ve telefondan haritayı açtığım anda farkedip şok olmuştum ilk anda. Avrupa&amp;rsquo;daki herhangi bir şehirden daha uzak noktadayım İstanbul&amp;rsquo;uma 😊&lt;/p&gt;&#xA;&lt;p&gt;Doğu yöresi her zaman merak ettiğim, keşfet istediğim bir yöreydi. Uzun yıllar kötü haberleriyle anılan bu bölgeler artık kolluk kuvvetlerimiz, güçlenen savunma sanayiimiz ve İHAlarımız ve en önemlisi dirayetli yöneticilerimiz ile her bir köşesi daha güvenli artık. Tur kapsamında katıldığım Mardin gezisinde, güneşin doğuşunu uçakta karşılıyorum ve günün ilk ışıklarıyla Mardin topraklarına ayak basıyorum. Güne keyifli bir kahvaltı ile başlıyoruz ve Mardin&amp;rsquo;in dar sokaklarına doğru dalıyoruz tur olarak.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Posts on MKY</title>
+		<link>https://mkykadir.com/post/</link>
+		<description>Recent content in Posts on MKY</description>
+		<generator>Hugo</generator>
+		<language>tr-TR</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 07 Apr 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://mkykadir.com/post/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>💡 T10X İç Aydınlatma Çözümü</title>
+				<link>https://mkykadir.com/2026/04/07/t10x-ic-aydinlatma/</link>
+				<pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+				<guid>https://mkykadir.com/2026/04/07/t10x-ic-aydinlatma/</guid>
+				<description>&lt;p&gt;Artık araçlarımız da yazılımları ile tanımlanıyor ve temel birçok özellik yazılımın kararlı çalışmasına bağlı. Togg ekibi henüz yazılım güncellemeleri konusunda çok yavaş olsa da güzel, Togg&amp;rsquo;un yardımsever bir topluluğu var. Bu topluluğa katkım olması açısından iç aydınlatma problemine çözüm buldum.&lt;/p&gt;&#xA;&lt;p&gt;Her araçta, araç kapısı açıldığında veya araç parka alındığında iç aydınlatma yanar ve araçtan önünüzü görerek inersiniz. Togg T10X&amp;rsquo;lerde 1.5 ve 1.6 sürümlerinde hala güncellemesi gelmeyen bir problem var. Araç bu şekilde iç aydınlatmalarını yakamıyor ve karanlıkta iniyorsunuz, fakat araç ekranında ışıklar yanıyor gibi gözüküyor. Yani yazılım yaktığını sanıyor ama ışıklar yanmıyor.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>🧪 Yazılım tanımlı deneyimler</title>
+				<link>https://mkykadir.com/2026/05/01/yazilim-tanimli-deneyimler/</link>
+				<pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+				<guid>https://mkykadir.com/2026/05/01/yazilim-tanimli-deneyimler/</guid>
+				<description>&lt;p&gt;Yazılım on yıllardır hayatımızda ve birçok alanında her geçen gün daha da artan etkisi ile, hayatımızı hızlandırıyor kimi zaman da kolaylaştırıyor. Yazılım sektöründe çalışırken çokça düşünüyorum yazılım olmasa ne olurdu diye. Neticede arabalar gidebiliyor, uçaklar uçabiliyor ve insanlar bir şekilde iletişim halinde kalabiliyorlardı. Daha geniş pencereden baktığımda yazılım olmadan da olur fakat artık çok zor olur.&lt;/p&gt;&#xA;&lt;p&gt;Finans işlemleri, uçağın güvenli uçuşu, arabanın konforlu ve güvenli gidişi, ülkelerin güvenliği ve dünyanın dört bir yanında iletişim halinde kalmak artık yazılımla mümkün ve daha kolay. Hayatımızdaki birçok deneyim artık yazılım tanımlı durumda.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>💻 Açık kaynak modeli, Optimisim&#39;in Reth ayrışması</title>
+				<link>https://mkykadir.com/2026/04/03/acik-kaynak-ve-op/</link>
+				<pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+				<guid>https://mkykadir.com/2026/04/03/acik-kaynak-ve-op/</guid>
+				<description>&lt;p&gt;Açık kaynak yazılım, daha öğrenciyken hevesle takip ettiğim, yürekten desteklediğim bir modeldi. Düşünün birileri binlerce satır kod yazmış ve size Linux gibi güzel bir sistemi ücretsiz bir şekilde sunup paketliyor ve henüz öğrenciyken birçok ödevinizi yapabiliyor, bu kodları okuyup teknik bilginizi geliştirebiliyor hatta kabiliyetiniz varsa siz de düzenlemelerinizi gönderebiliyorsunuz. Üstelik bunu birbirini neredeyse hiç görmeden, tanımadan ortak bir fikir üzerinde düşünüp tasarımlar yapan insanlar birlik içinde yapabiliyor. İlginç bir ütopyanın hayat bulmuş hali adeta&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>🇮🇶 Dededen kalma miras, Irak</title>
+				<link>https://mkykadir.com/2026/02/04/irak/</link>
+				<pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+				<guid>https://mkykadir.com/2026/02/04/irak/</guid>
+				<description>&lt;p&gt;Aklımızda savaş, yokluk, insanlık dramı ve işgal ile yer edinmiş bahsedilirken, birçok problemin ve sorunun kaynağı olarak görülen fakat tarihine bakıldığında bir çok medeniyetin ilk kurulduğu, Fırat ve Dicle nehirlerinin bereketiyle hep hareketli hep insanın var olduğu yörelere; Irak&amp;rsquo;a, başkentine yani Bağdat&amp;rsquo;a doğru gitmek aynı zamanda İslam tarihi açısından da çok önemli olayların yaşandığı bu topakları görmek hissetmek ve tarihi bir de yerinde dinlemek üzere çıktım yola.&lt;/p&gt;&#xA;&lt;p&gt;Yaptığım birçok rotada, haberlerde ve medyada anlatılandan çok daha farklı olduğunu gördüm gittiğim her noktada. Kimi zaman hep güzel olarak yansıtılan yerlerin aslında kamera arkasında ne kadar kötü olduğunu, kameralara kötü olarak yansıtılanların ise ne kadar güzel olduğunu gördüm. Bunun en çarpıcı örneği benim için İran olmuştur hep. Bağdat&amp;rsquo;a da benzer bir beklentiyle gittim fakat hem işgalin hem savaşların hem de insanların birbirlerine olan zulümlerinin yorgunluğu sebebiyle tam ortasını buldum. Ne anlatılmayan kadar güzel ne de anlatılan kadar kötü&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>🗓️ Takvimin son yaprağı</title>
+				<link>https://mkykadir.com/2025/12/31/takvimin-son-yapragi/</link>
+				<pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
+				<guid>https://mkykadir.com/2025/12/31/takvimin-son-yapragi/</guid>
+				<description>&lt;p&gt;Zaman, soyut bir kavram, fani dünyanın bir parçası ve bu soyutluğu daha yaşanabilir kılmak adına saat, gün, ay ve yıl gibi kavramlar üretmişiz. Kimi günleri hafta sonu belirleyip tatil yapmış ve bu sisteme o kadar alışmışız ki &amp;ldquo;Pazartesi sendromu&amp;rdquo; gibi bir kavram bile üretmişiz. Halbuki, doğada Pazartesi yok, hafta sonu tatili yok, ay sonu veya yıl başı gibi kavramların hiçbir karşılığı yok. Zaman kendi akışında olması gerektiği gibi akarken, tüm mahlukat bu akışta yapması gerekenleri yapmak peşinde. Bundan 200 yıl önce bu topraklarda günler, aylar ve seneler çok farklı kavramlardaydı, zaman o kadar soyut ki tanımlamasını bile çeşitli takvimlerle yapmış insanoğlu bunca zamandır.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>🇬🇷 Hem yakın hem uzak, Yunanistan</title>
+				<link>https://mkykadir.com/2025/12/24/yunanistan/</link>
+				<pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+				<guid>https://mkykadir.com/2025/12/24/yunanistan/</guid>
+				<description>&lt;p&gt;Bulgaristan&amp;rsquo;ın keyifli otobanlarından, Sofya&amp;rsquo;dan Selanik&amp;rsquo;e doğru ayarladım navigasyonumu. Sınır kapısının hemen arkası, Yunanistan otobanı. Keyifli, düzgün fakat ıssız&amp;hellip; Yunanistan hala eski tip nakit gişe mantığında işletiyor otobanlarını, gişelerde durup kredi kartı veya nakit ödeme ile devam ediyorsunuz. Hızlı geçiş sistemli gişelerine de yeni yeni başlıyorlar. Bulgaristan&amp;rsquo;ın o vinyet temelli gişesiz otobanlarından sonra biraz geride kalmış hissettirdi. Yollar çok güzel ama araca benzin almayı geçtim dinlenmek için geçebileceğiniz basit bir cep bile yok Yunan otobanlarında. Sadece gaza bas ve yola devam et mantığı var. Selanik&amp;rsquo;e kadar şarjım çok rahat yeter, yola devam&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>↔️ Bu iş olmuş, Togg T10X ile uzun yol</title>
+				<link>https://mkykadir.com/2025/12/22/togg-uzun-yol/</link>
+				<pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
+				<guid>https://mkykadir.com/2025/12/22/togg-uzun-yol/</guid>
+				<description>&lt;p&gt;Yılların hayali, Türkiye&amp;rsquo;nin kendi otomobilini üretmesi. Devrim otomobili ile denedik fakat ne yazık ki olamadı, onlarca yıl sonra tekrar denedik Togg ile, ve bu sefer tam oldu. Bana da nasip oldu bu güzel araca sahip olmak, malzeme kalitesi, yürüyeni, sistemleri, oldukça yeni olan bir marka için gayet konforlu ve sorunsuz bir deneyim sunan bu araç ile, ilk uzun yolumu, elektrikli bir araç ile ilk uzun yol deneyimimden edindiğim Togg izlenimlerimi paylaşmak istedim.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>🇧🇬 İlklerin rotası, Bulgaristan</title>
+				<link>https://mkykadir.com/2025/12/22/bulgaristan/</link>
+				<pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
+				<guid>https://mkykadir.com/2025/12/22/bulgaristan/</guid>
+				<description>&lt;p&gt;Hem elektrikli hem de Togg ile ilk uzun yolculuğumu yapmak isteğiyle, hem de yurtdışına araba ile çıkmayı deneyimlemek için koyuldum bu rotaya. Gittiğim yerler belki mevsimine uygun olmasa da bu süreci deneyimlemek, aynı zamanda bu toprakları da keşfetmek, oraların insanlarını görmek üzere çıktım yola.&lt;/p&gt;&#xA;&lt;p&gt;Komşumuz Bulgaristan&amp;rsquo;a, uzak bir kuşaktan da olsa ata toprağına doğru Kırklareli üzerinden Dereköy sınır kapısına geçtim. Kafamdaki rota, bu kapı üzerinden Burgaz ve Varna&amp;rsquo;ya ulaşmak, daha sonra Filibe ve Sofya ile Bulgaristan&amp;rsquo;ı tamamlayıp, Selanik&amp;rsquo;e geçmek ve oradan tekrar İstanbul&amp;rsquo;a dönerek tam bir daireyi tamamlamak.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>🇪🇸 Akıllı şehir, Barselona</title>
+				<link>https://mkykadir.com/2025/11/15/barselona/</link>
+				<pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
+				<guid>https://mkykadir.com/2025/11/15/barselona/</guid>
+				<description>&lt;p&gt;Diğer yazılarım üzerine çalışmaya devam ederken soğuk kış aylarının serinliği de hafiften hissedilirken biraz sıcak yörelere, İspanya&amp;rsquo;da hedefimdeki son durağım olan Barselona&amp;rsquo;ya doğru bir rota belirledim kendime. Üniversite zamanımda, İsbak&amp;rsquo;da part-time çalışırken İstanbul&amp;rsquo;u daha akıllı bir şehir yapmak üzerine araştırmalar yaptığım dönemlerde yatırımları ve dönüşümleri ile tarihten beri sürekli kendisinden akıllı bir şehir olarak söz ettirmiş Barselona hakkında birçok makale okumuş araştırmalar yapmıştım, gidip görmek bu günlere nasipmiş.&lt;/p&gt;&#xA;&lt;p&gt;Endülüs bölgesine olan gezimin ardından ikinci İspanya yolculuğum oldu Barselona. Uydu görüntüsünden baktığınızda cetvel gibi dizilmiş nizami şehir yapısının içinde bulunan muhteşem mimarili o güzel binalar karşılıyor sizi direkt olarak havalimanı metrosundan indiğiniz gibi. Katalan bölgesinin başkenti burası, şehirde birçok noktada Katalanca tabelalar ve seslendirmeler duyabilirsiniz fakat bölgede çoğunlukla insanlar İspanyolca konuşuyor ve İngilizce&amp;rsquo;yi de biliyorlardı.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>🖥️ Huawei Mateview Tamiri</title>
+				<link>https://mkykadir.com/2025/09/04/huawei-mateview-tamir/</link>
+				<pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+				<guid>https://mkykadir.com/2025/09/04/huawei-mateview-tamir/</guid>
+				<description>&lt;p&gt;Her gün saatlerce işim için severek aldığım ve memnuniyetle kullandığım Huawei Mateview 28.2&amp;quot; monitörüm bozuldu, ekranda görüntü var fakat ekran arka ışığı yok. Parlaklık ayarı yapamıyorum ve doğal olarak da monitör kullanılamaz durumda.&lt;/p&gt;&#xA;&lt;p&gt;Garantisi bitmiş olmasına rağmen henüz çok yeni bir monitördü ve hemen yetkili servisine götürdüm ve piyasadaki birçok monitörden daha çok ücret isteyerek anakartını değiştirmek istediler. Tam ₺12.000&amp;rsquo;e monitörüm tamir olacakmış&amp;hellip; Kısacası monitörünü çöpe at yenisi al demekten başka bir şey değil&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>🛣️ Yolda Olmak</title>
+				<link>https://mkykadir.com/2025/08/31/yolda-olmak/</link>
+				<pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
+				<guid>https://mkykadir.com/2025/08/31/yolda-olmak/</guid>
+				<description>&lt;p&gt;Yolun kendisi mi yoksa hedefe ulaşmak mıdır güzel olan? Hedefe ulaşmanın adımlarından birisi, yolda olmak; yolda olmak için karar vermek, adım atmak gerek. Fakat ademoğlu onu hedefine götüren yola değil de hedefin kendisine odaklıdır çoğu zaman. Yolu güzelleştirmeyi, çiçeklerle bezemeyi unutur devam eder. Fakat kimi yollar vardır ki, yolda olmanın romantizmi yoktur, kendi tercihinizle giremediğiniz veya seçme özgürlüğünüzün olmadığı yollar, kimi zaman da çok istediğiniz ve gittiğiniz yoldan çıkmanız gerekenler&amp;hellip;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>🇹🇷 Eskilerden notlar, Trabzon</title>
+				<link>https://mkykadir.com/2025/07/05/trabzon/</link>
+				<pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
+				<guid>https://mkykadir.com/2025/07/05/trabzon/</guid>
+				<description>&lt;p&gt;Büyüklerimiz, iyisiyle kötüsüyle bizlere anlattıkça biliriz toprağımızı, köyümüzü, oralara gidip temas etmek isteriz havasını solumak isteriz. Trabzon da benim için böyle oldu, çok önceleri gitmiştim yaylamıza, ne telefon ne televizyon çeken dingin o güzel yeşil yörelere. Tabii o zamanlar bu dinginliğin değerini anlamak pek mümkün değildi fakat bu sefer en ihtiyacım olan zamanda gittim o dingin yörelere.&lt;/p&gt;&#xA;&lt;p&gt;Aslında Trabzon demek biraz yanlış oluyor, düzeltmeyi yapalım, Of&amp;rsquo;a gittim 😊 Of merkezden 40 dakika mesafede olan yaylamıza düştü yolum, ata toprağına o güzel yeşil yörelere çıktım, 2200 metre rakıma. Gelişen teknoloji ile eskiden telefon çekmeyen buralarda artık 4.5G internet ile kuş ve sus sesleri eşliğinde çalışmalarımı yapabildim ve gece çöken sis ve soğuktan dolayı sobada yanan odunun çıtır çıtır sesleri eşliğinde.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>🇲🇹 Merħba Malta </title>
+				<link>https://mkykadir.com/2025/05/01/malta-gezisi/</link>
+				<pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+				<guid>https://mkykadir.com/2025/05/01/malta-gezisi/</guid>
+				<description>&lt;p&gt;Malta da nereden çıktı, bilmiyorum, programsız geziler ekstra bir keyifli oluyor&#xA;dedim ve koyuldum yola. Minik bir ada, İstanbul anadolu yakasından hallice. Fakat minik bir&#xA;yanlış hesap ile 4 günde bitirilebilecek bu tatlı yere 7 gün ayırmış oldum.&lt;/p&gt;&#xA;&lt;p&gt;Aktarmasız olarak yalnızca THY ile gidilen Malta&amp;rsquo;ya sezondan önce gitmiş olmama rağmen&#xA;farklı bölgelerden aktarmalı gelenlerle uçak tam dolu.&lt;/p&gt;&#xA;&lt;p&gt;Daha pasaport kontrolünde Akdeniz insanının sıcaklığı ile karşılandım.&#xA;Adada ulaşım otobüslerle çok rahat, 7 günlük bilet alıp yoluma&#xA;devam ettim. &lt;a href=&#34;https://www.publictransport.com.mt/&#34;&gt;Resmi sitesinden&lt;/a&gt; bilgi alabilirsiniz.&#xA;Kapıdan dışarı adım attığım gibi güzel bir çöl sıcağı eşliğinde yeşil renkli İETT&amp;rsquo;e binip yola&#xA;koyuldum.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>🇺🇿 İlim diyarı Özbekistan</title>
+				<link>https://mkykadir.com/2025/04/01/ozbekistan-gezisi/</link>
+				<pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+				<guid>https://mkykadir.com/2025/04/01/ozbekistan-gezisi/</guid>
+				<description>&lt;p&gt;Bizi aşağı çeken şeylere daha çok değer veriyoruz her geçen gün, pahası olan nesnelere paha biçilemez takısı takmaya çalışıyoruz, herkeste olanın bizdeki halinin en öznel olduğuna kendimize inandırıyoruz. Tarih hakkında içerikler izleyip, okudukça ve gezdikçe görüyorum ki bilginin ve ilmin paha biçilmez değerini bulanlar ihya olmuşlar ve paha biçilmezin peşinde koşturanlar büyümüşler. İlmin peşinden koşan, ilim insanına değer veren ve ilme merkez olan devletler hem toprakları hem gönülleri kazanmışlar, kısaca  &amp;ldquo;Oku&amp;rdquo; emrine riayet edenler hükmetmişler.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>🇹🇷 Dinlendirici şehir, Mersin</title>
+				<link>https://mkykadir.com/2025/03/17/mersin/</link>
+				<pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+				<guid>https://mkykadir.com/2025/03/17/mersin/</guid>
+				<description>&lt;p&gt;Gezimde en şaşırdığım ve en dinlediğim durak Mersin oldu, sakinliği, yeşilinin ve mavisinin güzelce harmanlandığı o sahil parkında, şehrin o güzel dizaynında dinlenmemek mümkün değil. Mersin&amp;rsquo;in bu kadar güzel olduğunu bilmiyordum, tatlı ve Mart ayı sebebiyle sakinliğiyle çokça dinlendiğim güzel bir durak oldu.&lt;/p&gt;&#xA;&lt;p&gt;Adana üzerinden Mersin&amp;rsquo;e geçerken, yol üzerinde herkesin uğradığı ve poz verdiği meşhur Gülek Kalesi&amp;rsquo;nin oradaki uçurum kayasında bir poz ile başladı Mersin yolculuğum. Önce Tarsus kentinde ve merkezinde turladıktan sonra, Roma döneminin bu önemli kentinde biraz dinlendim ve daha sonra Mersin&amp;rsquo;in şehir merkezine doğru çıktım yola. Mersin ülkemiz için büyük ve önemli limanıyla karşıladı beni, onun o yoğun trafiği ne yazık ki şehirden ayrışamamış ve ticaretinde olan uzun yol yolcusu tır şoförleri ile keyfi gezen bizler birbirine karışmış bir halde trafikte ilerledik.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>🇹🇷 Keşmekeş, Adana</title>
+				<link>https://mkykadir.com/2025/03/15/adana/</link>
+				<pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
+				<guid>https://mkykadir.com/2025/03/15/adana/</guid>
+				<description>&lt;p&gt;Adana, zamanından beri hep büyüklüğü, bereketi ve zenginliği ile adından söz ettirmiş yetiştirdiği ürünlerle ülkemize çok büyük katkıları olmuş güzel şehir. Türkiye&amp;rsquo;nin tarım, sanayi ve ticaret alanında da varlıklı bir çok ailesinin memleketi olan bu bölge bunca varlıklı aileye rağmen bence yeteri kadar yatırımını alamamış ve güzelleştirememiş.&lt;/p&gt;&#xA;&lt;p&gt;Gaziantep, Adana ve Mersin rotamın başlangıcı aslında yeni açılan Uluslararası Çukurova Havalimanı olmuştu fakat gezimin ilk durağı Gaziantep oldu. Havalimanı daha yeni açılmış, oldukça güzel ve büyük ve aslında bu yöreye yakışır bir uluslararası havalimanı olmuştu. Fakat Gaziantep&amp;rsquo;den sonra Adana&amp;rsquo;ya gelince, şehrin merkezi, keşkmekeşi, hijyenin düşüklüğü ve karmaşası beni şaşırttı. Üstelik bu kadar varlıklı ailelerin memleketi olup şehir bu halde bakımsız bulmak beni oldukça üzdü. Seyhan nehrinin şehre getirdiği ferahlık, bereket ve güzel renkler olmasa şehrin durumu pek iç açıcı değildi.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>🇹🇷 Güzel şehir, Gaziantep</title>
+				<link>https://mkykadir.com/2025/03/14/gaziantep/</link>
+				<pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+				<guid>https://mkykadir.com/2025/03/14/gaziantep/</guid>
+				<description>&lt;p&gt;Türkiye&amp;rsquo;nin doğusu, güneydoğusu her gittiğimde güzelliğiyle beni kendine tekrar tekrar hayran bırakan şehirleriyle şaşırtıyor. İnsanının güzelliği, şehirlerine yansımış. Birçok alt ve üst yapıya yeni yeni sahip olan bu şehirler aslında en son teknolojiyle tanışarak kuruluyor ve belkide büyükşehirlerin yenilenemeyen yapıları için güzel örnekler teşkil ediyor. Gastronomisiyle meşhur, medeniyetlere ev sahipliği yapmış değerli bir bölgenin parçası olan Gaziantep de bana aynı şekilde hissettirdi. Yeni kaymak gibi yollarına eşlik eden Gaziray raylı sistemi, şehrin genişleyen kısımlarında yapılan düzenli kentleşme, bu şehrin akılla yürütülüp tasarlandığını hissettiriyor.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>🇩🇪 Hız sınırı yok, Güney Almanya</title>
+				<link>https://mkykadir.com/2025/02/10/guney-almanya/</link>
+				<pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+				<guid>https://mkykadir.com/2025/02/10/guney-almanya/</guid>
+				<description>&lt;p&gt;Otomobilin merkezine doğru, hız sınırı olmayan bir yolculuk, emniyet kemerlerini takıyor ve yola çıkıyoruz, hedef Güney Almanya!&lt;/p&gt;&#xA;&lt;p&gt;Avrupa&amp;rsquo;da, özellikle Almanya&amp;rsquo;da araba kullanıyor olmak, o güzel, hız sınırı olmayan ücretsiz otobanlarını hissetmek ve oraya teker değdirmek hayallerimden bir tanesiydi. Hamdolsun ki bu gezimde nasip oldu, karlı kış gününde güzel bir Almanya rotası. İlk hedef otomobilin başkenti Stuttgart&amp;rsquo;a, Mercedes&amp;rsquo;in müzesine oldu. Aynı şekilde Mercedes&amp;rsquo;in komşusu Porsche&amp;rsquo;e de bir ziyaretin ardından şehrin keşfine geldi sıra.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>🇨🇭 Luzern neşesi, İsviçre</title>
+				<link>https://mkykadir.com/2025/01/12/isvicre-luzern/</link>
+				<pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
+				<guid>https://mkykadir.com/2025/01/12/isvicre-luzern/</guid>
+				<description>&lt;p&gt;Gerek iş gerek gezmek olsun birçok defa İsviçre&amp;rsquo;ye gidip farklı mevsimlerinde gezmek, orada bulunmak fırsatım oldu. Güzel bir sakinliği var bu ülkenin, aslında çok hareketliler, yolları trenleri hiçbir zaman durmuyor ve sürekli insanlar bir yerden bir yere gidiyorlar fakat trenlerde dört kişilik koltuklarda tek başınıza öğlen yemeğinizi yerken, güzel yeşillikler arasında süzülen trenin bir anda gölün yanından geçişini gördüğünüzde, dağların tepesinde yavaş yavaş tutan kar beyazlığı ile kartpostallık görüntü eşliğinde varıyorsunuz nereye gidecekseniz.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>🇨🇭 Sakinlik, Zug</title>
+				<link>https://mkykadir.com/2024/10/01/zug/</link>
+				<pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+				<guid>https://mkykadir.com/2024/10/01/zug/</guid>
+				<description>&lt;p&gt;Sakinliğin şehri, Zug. Yine bir iş seyahati için İsviçre, Zug&amp;rsquo;a geçtim. İş arkadaşlarımla keyifli bir hafta geçirmek üzere Zürih&amp;rsquo;e iniş yapmanın ardından 40 dakikalık harika manzaralı ve sakin bir tren yolculuğu ile vardım Zug&amp;rsquo;a.&lt;/p&gt;&#xA;&lt;p&gt;İşim haftasonuna kalmadan bitiyor fakat bu güzel şehrin sakinliğini biraz daha deneyimlemek adına dönüşümü Pazar günü akşamına ayarladım. Hafta içerisinde İsviçre&amp;rsquo;nin çok sevdiğim Luzern kentinde keyifli bir akşam yemeği eşliğinde yine bir festivaline, ışık festivaline gitmek fırsatım oldu.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>🇷🇺 Kozmopolit, Moskova</title>
+				<link>https://mkykadir.com/2024/06/17/moskova/</link>
+				<pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+				<guid>https://mkykadir.com/2024/06/17/moskova/</guid>
+				<description>&lt;p&gt;En ufak bir fikrim yok Moskova hakkında, merak ediyorum ve uygun bir tarihle birlikte uygun bir uçuş buluyorum. Rota Moskova, Haziran ayının sonları yaklaşıyor ve kuzeye gidildikçe günler uzuyor ama bu kadar uzadığını bilmiyordum.&lt;/p&gt;&#xA;&lt;p&gt;Ukrayna savaşının havacılığa etkilerinden bi&amp;rsquo;haber şekilde Rus havayollarından aldım uçak biletimi. Savaş dolayısıyla Rus şirketleri, güvenlik maksatlı olarak rotada kısa olan Avrupa hava sahasını kulllanamadıkları için Karadeniz&amp;rsquo;de Türkiye&amp;rsquo;ye parallel bir şekilde ilerleyip daha sonra Moskova&amp;rsquo;ya dönüyor ve saatlerce süren bir uçuşun ardından iniyorum Moskova&amp;rsquo;ya. Yine Rus havalimanını tercih ettiğim için uçaktaki tek turist olarak, yine turistik olmayan bir havalimanına iniş yapıyorum ve sınır polisi bile şaşkın bir şekilde kontrol ediyor vizemi. E-Vize sistemiyle hızlıca alınıyor Rus vizesi, havalimanından otelime hızlı trenin son seferiyle geçerek ve gece 1&amp;rsquo;de otel odama vardım.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>🇹🇷 Bastığın yerleri toprak diyerek geçme, Çanakkale</title>
+				<link>https://mkykadir.com/2024/06/01/canakkale/</link>
+				<pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+				<guid>https://mkykadir.com/2024/06/01/canakkale/</guid>
+				<description>&lt;p&gt;Bu vatan, bu devlet kolay ayakta kalmadı. Tarih derslerinde belki de işlenmesi gereken en önemli detay her zaman atlanıyor ve çocuklarımıza, gençlerimize Türk devletinin hep var olduğunu anlatmıyoruz. Anlatım tarzı devletin yıkılıp tekrar kurulduğu şeklinde oluyor ve bu yanlış. Osmanlı Devleti&amp;rsquo;inin ardından, Türk devleti yeni dünya düzenine ayak uydurarak yönetim biçimini değiştirmiş ve cumhuriyet yönetimine geçmiştir. Fakat bu geçiş öyle kolaylıkla olmamış ve devletimizi bölüp vatan topraklarımızı ele geçirmeye çalışan, işgal için gelen yabancılarla çetin mücadelelerle geçmiş. Bu çetin mücadelenin en sert geçen yerlerinden Çanakkale&amp;rsquo;e, bastığımız toprakların neden vatan olduğunu anlamaya gidiyorum.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>🇦🇿 Rızık nereden gelir, Azerbaycan</title>
+				<link>https://mkykadir.com/2024/03/01/azerbaycan-gezisi/</link>
+				<pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+				<guid>https://mkykadir.com/2024/03/01/azerbaycan-gezisi/</guid>
+				<description>&lt;p&gt;Şuşa&amp;rsquo;nın işgalden kurtuluşunun ardından bizden olan bu güzel diyarları ziyaret için çıktım yola. Gitmişken sadece Bakü&amp;rsquo;yü değil her noktasını göreyim niyetiyle yaptım programımı. Her yolculuk gibi bu yolculuk da, zihnimde idealize ettiğimden çok farklı gerçeklerle karşılaştırdı beni ve tekrar tekrar Allah&amp;rsquo;ın ayetlerini idrak etmemi sağladı.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;De ki: Yeryüzünde gezip dolaşın da, Allah ilk baştan nasıl yaratmış bir bakın. İşte Allah bundan sonra (aynı şekilde) ahiret hayatını da yaratacaktır. Gerçekten Allah her şeye kadirdir.&#xA;&lt;strong&gt;Ankebût, 20.&lt;/strong&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>🇪🇸 İslam Medeniyeti, İspanya</title>
+				<link>https://mkykadir.com/2023/10/17/endulus-ispanya-gezisi/</link>
+				<pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+				<guid>https://mkykadir.com/2023/10/17/endulus-ispanya-gezisi/</guid>
+				<description>&lt;p&gt;İslam medeniyeti ve İspanya, iki birbirinden uzak kavram gibi geliyor kulağa ilk anda; fakat İslam, İspanya&amp;rsquo;nın güneyine yani Endülüs bölgesine 800 yılı aşkın süre boyunca hakim oldu ve medeniyetini bu bölgelere yerleştirdi. Ne oldu da o noktadan bu noktaya geldik?&lt;/p&gt;&#xA;&lt;p&gt;Madrid&amp;rsquo;den Malaga&amp;rsquo;ya kadar olan bir rotaydı bu, İslam medeniyetinden kalanlar, İspanyolların bundan öğrendikleri ve güzel İspanya topraklarını karış karış gezdiğim keyifli bir rotaydı. &lt;a href=&#34;https://maps.app.goo.gl/ZmwkTL9kMuQTRe6a7&#34;&gt;Madrid İslam Merkezinde&lt;/a&gt; keyifli bir yemek ile başladı yolculuğum. Madrid biraz karmaşık ve değişik bir bölgeydi, özellikle Müslümanlara karşı ırkçılığa maruz kalınabilen bir yer. Göçmenin çok olduğu ama göçmenlerin de pek sevilmediği bir bölge. Meydanları, alışveriş yerleri ve büyük kiliseleri ile geçen bir başkent turunun ardından, Toledo&amp;rsquo;ya doğru yola koyuldum.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>🇹🇷 Mezopotamya bereketi, Diyarbakır</title>
+				<link>https://mkykadir.com/2022/09/16/diyarbakir/</link>
+				<pubDate>Fri, 16 Sep 2022 00:00:00 +0000</pubDate>
+				<guid>https://mkykadir.com/2022/09/16/diyarbakir/</guid>
+				<description>&lt;p&gt;Klasik yakıştırmayla başlayalım bu güzel şehre, doğunun Paris&amp;rsquo;i derler Diyarbakır&amp;rsquo;a hep ama ben çok daha güzellikler farkettim bu güzel diyarda. Diyarbakır, planımda olmayan bir sürpriz oldu benim için, pek de istemeyerek bir şekilde tamamladığım yüksek lisansım süresince yazdığım makalemin konferans sunumunu yapmak için Dicle Üniversitesi&amp;rsquo;ne gittim. Üniversiteye gitmişken, bu güzel şehri gezmek maksadıyla da yaptım hazırlıklarımı.&lt;/p&gt;&#xA;&lt;p&gt;İlk olarak bu yöreleri terörden temizleyen, bu uğurda geliştirdiği araç ve teknolojiler ile gecelerini gündüzlerine katan, canları pahasına kendilerini feda eden kahraman gazi ve şehitlerimize, bu yörelere yatırımlar yapıp daha da güzelleştiren yöneticiler ve devletlerimize sonsuz teşekkürler. Bu yörede huzur ve güven içinde gezip keşfetmemi sağlayan Rabbime sonsuz şükürler olsun.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>🇹🇷 İnsanı güzel, Mardin</title>
+				<link>https://mkykadir.com/2021/12/12/mardin/</link>
+				<pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
+				<guid>https://mkykadir.com/2021/12/12/mardin/</guid>
+				<description>&lt;p&gt;İstanbul&amp;rsquo;dan en uzak olduğum noktadayım ilk defa, uçak tekeri yere değdi ve telefondan haritayı açtığım anda farkedip şok olmuştum ilk anda. Avrupa&amp;rsquo;daki herhangi bir şehirden daha uzak noktadayım İstanbul&amp;rsquo;uma 😊&lt;/p&gt;&#xA;&lt;p&gt;Doğu yöresi her zaman merak ettiğim, keşfet istediğim bir yöreydi. Uzun yıllar kötü haberleriyle anılan bu bölgeler artık kolluk kuvvetlerimiz, güçlenen savunma sanayiimiz ve İHAlarımız ve en önemlisi dirayetli yöneticilerimiz ile her bir köşesi daha güvenli artık. Tur kapsamında katıldığım Mardin gezisinde, güneşin doğuşunu uçakta karşılıyorum ve günün ilk ışıklarıyla Mardin topraklarına ayak basıyorum. Güne keyifli bir kahvaltı ile başlıyoruz ve Mardin&amp;rsquo;in dar sokaklarına doğru dalıyoruz tur olarak.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
