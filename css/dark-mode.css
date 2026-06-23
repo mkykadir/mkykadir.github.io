@@ -1,0 +1,413 @@
+:root {
+  /* Design colors - Light Mode */
+  --bg-primary: #ffffff;
+  --bg-secondary: #f8f9fa;
+  --text-primary: #404040;
+  --text-secondary: #777777;
+  --text-muted: #999999;
+  --border-color: #f2f2f2;
+  --link-color: #337ab7;
+  --link-hover: #0085a1;
+  --navbar-bg-fixed: rgba(255, 255, 255, 0.9);
+  --navbar-text: #404040;
+  --code-bg: #f8f9fa;
+  --code-border: #f2f2f2;
+  --blockquote-bg: rgba(0, 0, 0, 0.02);
+  --blockquote-border: #eeeeee;
+  --scrollbar-thumb: #999999;
+  --scrollbar-track: #eeeeee;
+  --accent-color: #0085a1;
+  --toggle-color: #ffffff;
+}
+
+/* System preferences - Dark Mode fallback if no explicit theme override classes */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-primary: #000000; /* OLED Black */
+    --bg-secondary: #0c0e12;
+    --text-primary: #e1e7ec;
+    --text-secondary: #8892b0;
+    --text-muted: #8892b0;
+    --border-color: #1a1f26;
+    --link-color: #60a5fa;
+    --link-hover: #93c5fd;
+    --navbar-bg-fixed: rgba(0, 0, 0, 0.85);
+    --navbar-text: #e1e7ec;
+    --code-bg: #07090e;
+    --code-border: #1a1f26;
+    --blockquote-bg: rgba(255, 255, 255, 0.02);
+    --blockquote-border: #1a1f26;
+    --scrollbar-thumb: #334155;
+    --scrollbar-track: #000000;
+    --accent-color: #60a5fa;
+    --toggle-color: #e1e7ec;
+  }
+}
+
+/* Explicit class overrides */
+html.dark {
+  --bg-primary: #000000; /* OLED Black */
+  --bg-secondary: #0c0e12;
+  --text-primary: #e1e7ec;
+  --text-secondary: #8892b0;
+  --text-muted: #8892b0;
+  --border-color: #1a1f26;
+  --link-color: #60a5fa;
+  --link-hover: #93c5fd;
+  --navbar-bg-fixed: rgba(0, 0, 0, 0.85);
+  --navbar-text: #e1e7ec;
+  --code-bg: #07090e;
+  --code-border: #1a1f26;
+  --blockquote-bg: rgba(255, 255, 255, 0.02);
+  --blockquote-border: #1a1f26;
+  --scrollbar-thumb: #334155;
+  --scrollbar-track: #000000;
+  --accent-color: #60a5fa;
+  --toggle-color: #e1e7ec;
+}
+
+html.light {
+  --bg-primary: #ffffff;
+  --bg-secondary: #f8f9fa;
+  --text-primary: #404040;
+  --text-secondary: #777777;
+  --text-muted: #999999;
+  --border-color: #f2f2f2;
+  --link-color: #337ab7;
+  --link-hover: #0085a1;
+  --navbar-bg-fixed: rgba(255, 255, 255, 0.9);
+  --navbar-text: #404040;
+  --code-bg: #f8f9fa;
+  --code-border: #f2f2f2;
+  --blockquote-bg: rgba(0, 0, 0, 0.02);
+  --blockquote-border: #eeeeee;
+  --scrollbar-thumb: #999999;
+  --scrollbar-track: #eeeeee;
+  --accent-color: #0085a1;
+  --toggle-color: #ffffff;
+}
+
+/* Apply variables to layout elements */
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.post-container {
+  color: var(--text-primary);
+}
+
+.post-container a {
+  color: var(--link-color);
+}
+
+.post-container a:hover, .post-container a:focus {
+  color: var(--link-hover);
+}
+
+/* Header style-text support in dark mode */
+html.dark .intro-header.style-text .site-heading,
+html.dark .intro-header.style-text .post-heading,
+html.dark .intro-header.style-text .page-heading {
+  color: var(--text-primary);
+}
+
+.post-preview > a {
+  color: var(--text-primary);
+}
+
+.post-preview > a > .post-title {
+  color: var(--text-primary);
+  transition: color 0.2s ease;
+}
+
+.post-preview > a:hover > .post-title,
+.post-preview > a:focus > .post-title {
+  color: var(--link-hover);
+}
+
+.post-preview > a > .post-subtitle {
+  color: var(--text-secondary);
+}
+
+.post-preview > .post-meta {
+  color: var(--text-secondary);
+}
+
+/* Sidebar styling */
+.sidebar-container {
+  color: var(--text-secondary);
+}
+
+.sidebar-container h5 {
+  color: var(--text-primary);
+}
+
+.sidebar-container a {
+  color: var(--text-secondary) !important;
+}
+
+.sidebar-container a:hover, .sidebar-container a:active {
+  color: var(--link-hover) !important;
+}
+
+.sidebar-container .tags a, .tag {
+  border-color: var(--border-color) !important;
+  color: var(--text-secondary) !important;
+  background-color: var(--bg-secondary) !important;
+  transition: all 0.2s ease;
+}
+
+.sidebar-container .tags a:hover, .sidebar-container .tags a:active,
+.tag:hover, .tag:active {
+  border-color: var(--link-hover) !important;
+  color: var(--link-hover) !important;
+  background-color: rgba(56, 189, 248, 0.1) !important;
+}
+
+/* HR and borders */
+hr {
+  border-color: var(--border-color);
+}
+
+/* Blockquotes */
+blockquote {
+  color: var(--text-secondary);
+  background-color: var(--blockquote-bg);
+  border-left-color: var(--blockquote-border);
+}
+
+/* Fixed & Inverted Navbar */
+.navbar-custom.is-fixed {
+  background-color: var(--navbar-bg-fixed);
+  border-bottom: 1px solid var(--border-color);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}
+
+.navbar-custom.is-fixed .navbar-brand {
+  color: var(--navbar-text);
+}
+
+.navbar-custom.is-fixed .navbar-brand:hover,
+.navbar-custom.is-fixed .navbar-brand:focus {
+  color: var(--link-hover);
+}
+
+.navbar-custom.is-fixed .nav li a {
+  color: var(--navbar-text);
+}
+
+.navbar-custom.is-fixed .nav li a:hover,
+.navbar-custom.is-fixed .nav li a:focus {
+  color: var(--link-hover);
+}
+
+.navbar-custom.invert .navbar-brand {
+  color: var(--navbar-text);
+}
+
+.navbar-custom.invert .navbar-brand:hover,
+.navbar-custom.invert .navbar-brand:focus {
+  color: var(--link-hover);
+}
+
+.navbar-custom.invert .nav li a {
+  color: var(--navbar-text);
+}
+
+.navbar-custom.invert .nav li a:hover,
+.navbar-custom.invert .nav li a:focus {
+  color: var(--link-hover);
+}
+
+/* Mobile Nav Menu collapse */
+@media only screen and (max-width: 767px) {
+  .navbar-default .navbar-collapse {
+    background-color: var(--bg-secondary);
+    border: 1px solid var(--border-color);
+  }
+  .navbar-custom.invert .navbar-toggle .icon-bar,
+  .navbar-custom .navbar-toggle .icon-bar {
+    background-color: var(--navbar-text);
+  }
+  #huxblog_navbar li a {
+    color: var(--navbar-text) !important;
+  }
+  #huxblog_navbar li a:hover {
+    color: var(--link-hover) !important;
+  }
+}
+
+/* Pre / Code Blocks */
+pre, code {
+  color-scheme: dark;
+}
+
+pre {
+  background-color: var(--code-bg) !important;
+  border: 1px solid var(--code-border) !important;
+}
+
+/* Tables */
+.table th, .table td {
+  border-color: var(--border-color) !important;
+}
+
+.table {
+  color: var(--text-primary);
+}
+
+/* Footer styling */
+footer {
+  border-top: 1px solid var(--border-color);
+  background-color: var(--bg-secondary);
+}
+
+footer .copyright {
+  color: var(--text-secondary);
+}
+
+footer .fa-circle {
+  color: var(--text-secondary);
+  transition: color 0.2s ease;
+}
+
+footer li a:hover .fa-circle {
+  color: var(--link-hover);
+}
+
+footer .fa-inverse {
+  color: var(--bg-primary) !important;
+}
+
+/* Pagers / Pagination */
+.pager li > a, .pager li > span {
+  background-color: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  color: var(--text-primary);
+}
+
+.pager li > a:hover, .pager li > a:focus {
+  background-color: var(--bg-primary);
+  color: var(--link-hover);
+  border-color: var(--link-hover);
+}
+
+/* Dim header image background in dark mode */
+html.dark .intro-header {
+  position: relative;
+}
+
+html.dark .intro-header::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.45); /* Elegant darkening layer */
+  z-index: 1;
+  pointer-events: none;
+}
+
+html.dark .intro-header .container {
+  position: relative;
+  z-index: 2;
+}
+
+/* Scrollbars */
+:root {
+  scrollbar-color: var(--scrollbar-thumb) var(--scrollbar-track);
+}
+
+/* Theme Toggle Button */
+.theme-toggle-container {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.theme-toggle {
+  position: relative;
+  width: 44px;
+  height: 56px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  padding: 0;
+  color: #ffffff;
+  transition: color 0.3s ease, transform 0.2s ease;
+}
+
+.theme-toggle:hover {
+  color: rgba(255, 255, 255, 0.8);
+  transform: scale(1.15);
+}
+
+.theme-toggle:focus {
+  outline: none;
+}
+
+.theme-toggle svg {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  stroke: currentColor;
+  fill: none;
+  transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.4s ease;
+}
+
+/* SVG state transformations */
+.theme-toggle .sun-icon {
+  transform: rotate(90deg) scale(0);
+  opacity: 0;
+}
+
+.theme-toggle .moon-icon {
+  transform: rotate(0) scale(1);
+  opacity: 1;
+}
+
+html.dark .theme-toggle .sun-icon {
+  transform: rotate(0) scale(1);
+  opacity: 1;
+}
+
+html.dark .theme-toggle .moon-icon {
+  transform: rotate(-90deg) scale(0);
+  opacity: 0;
+}
+
+.navbar-custom.is-fixed .theme-toggle,
+.navbar-custom.invert .theme-toggle {
+  color: var(--navbar-text);
+}
+
+.navbar-custom.is-fixed .theme-toggle:hover,
+.navbar-custom.invert .theme-toggle:hover {
+  color: var(--link-hover);
+}
+
+/* Mobile theme toggle layout */
+@media only screen and (max-width: 767px) {
+  .theme-toggle-container {
+    display: block;
+    padding: 10px 15px;
+  }
+  .theme-toggle {
+    height: 30px;
+    width: 30px;
+    justify-content: flex-start;
+    color: var(--navbar-text);
+  }
+  .theme-toggle:hover {
+    color: var(--link-hover);
+  }
+  .theme-toggle svg {
+    position: relative;
+  }
+}
