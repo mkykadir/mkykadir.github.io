@@ -1,0 +1,1971 @@
+<!DOCTYPE html>
+<html lang="tr-TR">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="light dark">
+    <script>
+        (function() {
+            var theme = localStorage.getItem('theme');
+            var systemDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+            var activeTheme = (theme === 'dark' || (!theme && systemDark)) ? 'dark' : 'light';
+            if (activeTheme === 'dark') {
+                document.documentElement.classList.add('dark');
+                document.documentElement.classList.remove('light');
+            } else {
+                document.documentElement.classList.remove('dark');
+                document.documentElement.classList.add('light');
+            }
+            var meta = document.querySelector('meta[name="color-scheme"]');
+            if (meta) {
+                meta.content = theme ? theme : 'light dark';
+            }
+        })();
+    </script>
+
+    
+    <meta property="og:site_name" content="MKY">
+    <meta property="og:type" content="article">
+
+    
+    <meta property="og:image" content="https://mkykadir.com//img/home-bg.jpg">
+    <meta property="twitter:image" content="https://mkykadir.com//img/home-bg.jpg" />
+    
+
+    
+    <meta name="title" content="Harita" />
+    <meta property="og:title" content="Harita" />
+    <meta property="twitter:title" content="Harita" />
+    
+
+    
+    <meta name="description" content="MKY&#39;nin kişisel blogu">
+    <meta property="og:description" content="MKY&#39;nin kişisel blogu" />
+    <meta property="twitter:description" content="MKY&#39;nin kişisel blogu" />
+    
+
+    <meta property="og:url" content="https://mkykadir.com/travel/" />
+
+    
+    <meta property="twitter:card" content="summary_large_image" />
+    
+    
+
+    <meta name="keyword"  content="mky, kadir, muhammed kadir yücel, mkykadir, blockchain, ethereum, bitcoin, tech, computer, engineering, software, istanbul">
+    <link rel="shortcut icon" href="/img/favicon.ico">
+
+    <title>Harita | Muhammed Kadir Yücel Blog</title>
+
+    <link rel="canonical" href="/travel/">
+
+    
+
+    
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+
+    
+    <link rel="stylesheet" href="/css/hugo-theme-cleanwhite.min.css">
+
+    
+    <link rel="stylesheet" href="/css/zanshang.min.css">
+
+    
+    <link rel="stylesheet" href="/css/font-awesome.all.min.css">
+
+    
+    <link rel="stylesheet" href="https://mkykadir.com/css/dark-mode.css">
+
+    
+    <script src="/js/jquery.min.js"></script>
+
+    
+    <script src="/js/bootstrap.min.js"></script>
+
+    
+    <script src="/js/hux-blog.min.js"></script>
+
+    
+    <script src="/js/lazysizes.min.js"></script>
+
+    
+    
+    <script src="https://mkykadir.com/js/dark-mode.js"></script>
+    
+
+    
+    
+    <script defer src="https://cloud.umami.is/script.js" data-website-id="2249102f-d03d-45f4-b2ed-ee553a96e0aa"></script>
+    
+
+</head>
+
+
+
+
+
+<nav class="navbar navbar-default navbar-custom navbar-fixed-top">
+
+    <div class="container-fluid">
+        
+        <div class="navbar-header page-scroll">
+            <button type="button" class="navbar-toggle">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/archive">MKY</a>
+        </div>
+
+        
+        
+        <div id="huxblog_navbar">
+            <div class="navbar-collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="/archive">Arşiv</a>
+                    </li>
+                    <li>
+                        <a href="/travel">Harita</a>
+                    </li>
+                    
+                        
+                        <li>
+                            <a href="/categories/gezi/">gezi</a>
+                        </li>
+                        
+                        <li>
+                            <a href="/categories/notlar/">notlar</a>
+                        </li>
+                        
+                        <li>
+                            <a href="/categories/teknik/">teknik</a>
+                        </li>
+                        
+                        <li>
+                            <a href="/categories/togg/">togg</a>
+                        </li>
+                        
+                    
+                    
+		    
+                    <li class="theme-toggle-container">
+                        <button id="theme-toggle" class="theme-toggle" aria-label="Toggle theme">
+                            <svg class="sun-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <circle cx="12" cy="12" r="5"></circle>
+                                <line x1="12" y1="1" x2="12" y2="3"></line>
+                                <line x1="12" y1="21" x2="12" y2="23"></line>
+                                <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                                <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                                <line x1="1" y1="12" x2="3" y2="12"></line>
+                                <line x1="21" y1="12" x2="23" y2="12"></line>
+                                <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                                <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                            </svg>
+                            <svg class="moon-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                            </svg>
+                        </button>
+                    </li>
+		            
+                </ul>
+            </div>
+        </div>
+        
+    </div>
+    
+</nav>
+<script>
+    
+    
+    
+    var $body   = document.body;
+    var $toggle = document.querySelector('.navbar-toggle');
+    var $navbar = document.querySelector('#huxblog_navbar');
+    var $collapse = document.querySelector('.navbar-collapse');
+
+    $toggle.addEventListener('click', handleMagic)
+    function handleMagic(e){
+        if ($navbar.className.indexOf('in') > 0) {
+        
+            $navbar.className = " ";
+            
+            setTimeout(function(){
+                
+                if($navbar.className.indexOf('in') < 0) {
+                    $collapse.style.height = "0px"
+                }
+            },400)
+        }else{
+        
+            $collapse.style.height = "auto"
+            $navbar.className += " in";
+        }
+    }
+</script>
+
+
+
+
+<header class="intro-header" style="background-image: url('/img/home-bg.jpg')">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="site-heading">
+                    <h1>Harita</h1>
+                    <span class="subheading"></span>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+
+<style>
+    #map {
+        height: 600px;
+        width: 100%;
+        border-radius: 12px;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+        margin-top: 20px;
+        margin-bottom: 40px;
+        border: 1px solid var(--border-color);
+        position: relative;
+        z-index: 1;  
+    }
+    .leaflet-popup-content-wrapper {
+        background-color: var(--bg-secondary) !important;
+        color: var(--text-primary) !important;
+        border: 1px solid var(--border-color) !important;
+        border-radius: 8px !important;
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3) !important;
+    }
+    .leaflet-popup-tip {
+        background-color: var(--bg-secondary) !important;
+        border-left: 1px solid var(--border-color) !important;
+        border-bottom: 1px solid var(--border-color) !important;
+    }
+    .map-popup-container {
+        font-family: inherit;
+        padding: 5px;
+        min-width: 220px;
+    }
+    .map-popup-title {
+        margin-top: 0;
+        margin-bottom: 10px;
+        font-size: 16px;
+        font-weight: 700;
+        color: var(--text-primary);
+        border-bottom: 1px solid var(--border-color);
+        padding-bottom: 5px;
+    }
+    .map-popup-list {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        max-height: 180px;
+        overflow-y: auto;
+    }
+    .map-popup-list li {
+        margin-bottom: 8px;
+        font-size: 13px;
+        line-height: 1.4;
+    }
+    .map-popup-link {
+        color: var(--link-color) !important;
+        font-weight: 600;
+        text-decoration: none;
+    }
+    .map-popup-link:hover {
+        color: var(--link-hover) !important;
+        text-decoration: underline;
+    }
+    .map-popup-date {
+        color: var(--text-secondary);
+        font-size: 11px;
+        margin-left: 4px;
+        white-space: nowrap;
+    }
+</style>
+
+<article>
+    <div class="container">
+        <div class="row">
+            
+            <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1">
+                
+                
+                
+                <div id="map"></div>
+                
+                
+
+
+
+
+            </div>
+        </div>
+    </div>
+</article>
+
+
+
+
+
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+  
+
+  
+  
+
+  
+  
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+  
+
+  
+  
+
+  
+  
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+  
+
+  
+  
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+  
+
+  
+  
+
+  
+  
+
+  
+  
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+  
+
+  
+  
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+  
+
+  
+  
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+  
+
+  
+  
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+  
+
+  
+  
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+  
+
+  
+  
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+          
+        
+      
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+  
+
+  
+  
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+  
+
+  
+  
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+  
+
+  
+  
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+          
+        
+      
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+          
+        
+      
+    
+  
+
+  
+  
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+  
+
+  
+  
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+  
+
+  
+  
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+  
+
+  
+  
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+  
+
+  
+  
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+  
+
+  
+  
+    
+      
+      
+      
+      
+      
+      
+        
+        
+        
+        
+          
+          
+          
+        
+      
+      
+      
+        
+        
+        
+        
+          
+        
+      
+    
+  
+
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const travelData = {"adana":{"lat":37,"lng":35.3213,"name":"Adana","posts":[{"date":"2025-03-15","title":"🇹🇷 Keşmekeş, Adana","url":"/2025/03/15/adana/"},{"date":"2025-03-14","title":"🇹🇷 Güzel şehir, Gaziantep","url":"/2025/03/14/gaziantep/"}]},"bagdat":{"lat":33.3152,"lng":44.3661,"name":"Bağdat","posts":[{"date":"2026-02-04","title":"🇮🇶 Dededen kalma miras, Irak","url":"/2026/02/04/irak/"}]},"baku":{"lat":40.4093,"lng":49.8671,"name":"Bakü","posts":[{"date":"2024-03-01","title":"🇦🇿 Rızık nereden gelir, Azerbaycan","url":"/2024/03/01/azerbaycan-gezisi/"}]},"barselona":{"lat":41.3851,"lng":2.1734,"name":"Barselona","posts":[{"date":"2025-11-15","title":"🇪🇸 Akıllı şehir, Barselona","url":"/2025/11/15/barselona/"}]},"basgal":{"lat":40.7594,"lng":48.3744,"name":"Baskal","posts":[{"date":"2024-03-01","title":"🇦🇿 Rızık nereden gelir, Azerbaycan","url":"/2024/03/01/azerbaycan-gezisi/"}]},"buhara":{"lat":39.7747,"lng":64.4286,"name":"Buhara","posts":[{"date":"2025-04-01","title":"🇺🇿 İlim diyarı Özbekistan","url":"/2025/04/01/ozbekistan-gezisi/"}]},"burgaz":{"lat":42.5048,"lng":27.4626,"name":"Burgaz","posts":[{"date":"2025-12-22","title":"🇧🇬 İlklerin rotası, Bulgaristan","url":"/2025/12/22/bulgaristan/"}]},"canakkale":{"lat":40.1553,"lng":26.4142,"name":"Çanakkale","posts":[{"date":"2024-06-01","title":"🇹🇷 Bastığın yerleri toprak diyerek geçme, Çanakkale","url":"/2024/06/01/canakkale/"}]},"comino":{"lat":36.0125,"lng":14.3314,"name":"Comino","posts":[{"date":"2025-05-01","title":"🇲🇹 Merħba Malta ","url":"/2025/05/01/malta-gezisi/"}]},"cordoba":{"lat":37.8882,"lng":-4.7794,"name":"Kurtuba (Córdoba)","posts":[{"date":"2023-10-17","title":"🇪🇸 İslam Medeniyeti, İspanya","url":"/2023/10/17/endulus-ispanya-gezisi/"}]},"dedeagac":{"lat":40.8476,"lng":25.8744,"name":"Dedeağaç","posts":[{"date":"2025-12-24","title":"🇬🇷 Hem yakın hem uzak, Yunanistan","url":"/2025/12/24/yunanistan/"}]},"diyarbakir":{"lat":37.9144,"lng":40.211,"name":"Diyarbakır","posts":[{"date":"2022-09-16","title":"🇹🇷 Mezopotamya bereketi, Diyarbakır","url":"/2022/09/16/diyarbakir/"}]},"filibe":{"lat":42.1354,"lng":24.7453,"name":"Filibe (Plovdiv)","posts":[{"date":"2025-12-22","title":"🇧🇬 İlklerin rotası, Bulgaristan","url":"/2025/12/22/bulgaristan/"}]},"ganja":{"lat":40.6828,"lng":46.3606,"name":"Gence","posts":[{"date":"2024-03-01","title":"🇦🇿 Rızık nereden gelir, Azerbaycan","url":"/2024/03/01/azerbaycan-gezisi/"}]},"gaziantep":{"lat":37.0662,"lng":37.3833,"name":"Gaziantep","posts":[{"date":"2025-03-14","title":"🇹🇷 Güzel şehir, Gaziantep","url":"/2025/03/14/gaziantep/"}]},"gozo":{"lat":36.0436,"lng":14.2489,"name":"Gozo","posts":[{"date":"2025-05-01","title":"🇲🇹 Merħba Malta ","url":"/2025/05/01/malta-gezisi/"}]},"granada":{"lat":37.1773,"lng":-3.5986,"name":"Granada","posts":[{"date":"2023-10-17","title":"🇪🇸 İslam Medeniyeti, İspanya","url":"/2023/10/17/endulus-ispanya-gezisi/"}]},"gulek-kalesi":{"lat":37.2625,"lng":34.7892,"name":"Gülek Kalesi","posts":[{"date":"2025-03-17","title":"🇹🇷 Dinlendirici şehir, Mersin","url":"/2025/03/17/mersin/"}]},"gumulcine":{"lat":41.1192,"lng":25.4053,"name":"Gümülçine","posts":[{"date":"2025-12-24","title":"🇬🇷 Hem yakın hem uzak, Yunanistan","url":"/2025/12/24/yunanistan/"}]},"halfeti":{"lat":37.2476,"lng":37.8687,"name":"Halfeti","posts":[{"date":"2025-03-14","title":"🇹🇷 Güzel şehir, Gaziantep","url":"/2025/03/14/gaziantep/"}]},"hiva":{"lat":41.3783,"lng":60.3639,"name":"Hiva","posts":[{"date":"2025-04-01","title":"🇺🇿 İlim diyarı Özbekistan","url":"/2025/04/01/ozbekistan-gezisi/"}]},"kavala":{"lat":40.9376,"lng":24.4146,"name":"Kavala","posts":[{"date":"2025-12-24","title":"🇬🇷 Hem yakın hem uzak, Yunanistan","url":"/2025/12/24/yunanistan/"}]},"luzern":{"lat":47.0502,"lng":8.3093,"name":"Luzern","posts":[{"date":"2025-01-12","title":"🇨🇭 Luzern neşesi, İsviçre","url":"/2025/01/12/isvicre-luzern/"},{"date":"2024-10-01","title":"🇨🇭 Sakinlik, Zug","url":"/2024/10/01/zug/"}]},"madrid":{"lat":40.4168,"lng":-3.7038,"name":"Madrid","posts":[{"date":"2023-10-17","title":"🇪🇸 İslam Medeniyeti, İspanya","url":"/2023/10/17/endulus-ispanya-gezisi/"}]},"malaga":{"lat":36.7213,"lng":-4.4214,"name":"Málaga","posts":[{"date":"2023-10-17","title":"🇪🇸 İslam Medeniyeti, İspanya","url":"/2023/10/17/endulus-ispanya-gezisi/"}]},"mardin":{"lat":37.3129,"lng":40.7339,"name":"Mardin","posts":[{"date":"2021-12-11","title":"🇹🇷 İnsanı güzel, Mardin","url":"/2021/12/12/mardin/"}]},"mdina":{"lat":35.8858,"lng":14.4031,"name":"Mdina","posts":[{"date":"2025-05-01","title":"🇲🇹 Merħba Malta ","url":"/2025/05/01/malta-gezisi/"}]},"mersin":{"lat":36.8121,"lng":34.6415,"name":"Mersin","posts":[{"date":"2025-03-17","title":"🇹🇷 Dinlendirici şehir, Mersin","url":"/2025/03/17/mersin/"}]},"moskova":{"lat":55.7558,"lng":37.6173,"name":"Moskova","posts":[{"date":"2024-06-17","title":"🇷🇺 Kozmopolit, Moskova","url":"/2024/06/17/moskova/"}]},"munih":{"lat":48.1351,"lng":11.582,"name":"Münih","posts":[{"date":"2025-02-10","title":"🇩🇪 Hız sınırı yok, Güney Almanya","url":"/2025/02/10/guney-almanya/"}]},"quba":{"lat":41.3662,"lng":48.5144,"name":"Kuba","posts":[{"date":"2024-03-01","title":"🇦🇿 Rızık nereden gelir, Azerbaycan","url":"/2024/03/01/azerbaycan-gezisi/"}]},"salzburg":{"lat":47.8095,"lng":13.055,"name":"Salzburg","posts":[{"date":"2025-02-10","title":"🇩🇪 Hız sınırı yok, Güney Almanya","url":"/2025/02/10/guney-almanya/"}]},"schwangau":{"lat":47.5752,"lng":10.7356,"name":"Schwangau (Neuschwanstein)","posts":[{"date":"2025-02-10","title":"🇩🇪 Hız sınırı yok, Güney Almanya","url":"/2025/02/10/guney-almanya/"}]},"selanik":{"lat":40.6401,"lng":22.9444,"name":"Selanik","posts":[{"date":"2025-12-24","title":"🇬🇷 Hem yakın hem uzak, Yunanistan","url":"/2025/12/24/yunanistan/"}]},"semerkand":{"lat":39.6542,"lng":66.9597,"name":"Semerkand","posts":[{"date":"2025-04-01","title":"🇺🇿 İlim diyarı Özbekistan","url":"/2025/04/01/ozbekistan-gezisi/"}]},"sevilla":{"lat":37.3891,"lng":-5.9845,"name":"Sevilla","posts":[{"date":"2023-10-17","title":"🇪🇸 İslam Medeniyeti, İspanya","url":"/2023/10/17/endulus-ispanya-gezisi/"}]},"sheki":{"lat":41.1919,"lng":47.1706,"name":"Şeki","posts":[{"date":"2024-03-01","title":"🇦🇿 Rızık nereden gelir, Azerbaycan","url":"/2024/03/01/azerbaycan-gezisi/"}]},"sofya":{"lat":42.6977,"lng":23.3219,"name":"Sofya","posts":[{"date":"2025-12-22","title":"🇧🇬 İlklerin rotası, Bulgaristan","url":"/2025/12/22/bulgaristan/"}]},"stuttgart":{"lat":48.7758,"lng":9.1829,"name":"Stuttgart","posts":[{"date":"2025-02-10","title":"🇩🇪 Hız sınırı yok, Güney Almanya","url":"/2025/02/10/guney-almanya/"}]},"tarsus":{"lat":36.9159,"lng":34.8967,"name":"Tarsus","posts":[{"date":"2025-03-17","title":"🇹🇷 Dinlendirici şehir, Mersin","url":"/2025/03/17/mersin/"}]},"taskent":{"lat":41.2995,"lng":69.2401,"name":"Taşkent","posts":[{"date":"2025-04-01","title":"🇺🇿 İlim diyarı Özbekistan","url":"/2025/04/01/ozbekistan-gezisi/"}]},"toledo":{"lat":39.8628,"lng":-4.0273,"name":"Toledo","posts":[{"date":"2023-10-17","title":"🇪🇸 İslam Medeniyeti, İspanya","url":"/2023/10/17/endulus-ispanya-gezisi/"}]},"trabzon":{"lat":41.0027,"lng":39.7168,"name":"Trabzon","posts":[{"date":"2025-07-05","title":"🇹🇷 Eskilerden notlar, Trabzon","url":"/2025/07/05/trabzon/"}]},"valletta":{"lat":35.8989,"lng":14.5146,"name":"Valletta","posts":[{"date":"2025-05-01","title":"🇲🇹 Merħba Malta ","url":"/2025/05/01/malta-gezisi/"}]},"varda-koprusu":{"lat":37.2433,"lng":34.9767,"name":"Varda Köprüsü","posts":[{"date":"2025-03-15","title":"🇹🇷 Keşmekeş, Adana","url":"/2025/03/15/adana/"}]},"varna":{"lat":43.2141,"lng":27.9147,"name":"Varna","posts":[{"date":"2025-12-22","title":"🇧🇬 İlklerin rotası, Bulgaristan","url":"/2025/12/22/bulgaristan/"}]},"yanardag":{"lat":40.5019,"lng":49.8911,"name":"Yanardağ","posts":[{"date":"2024-03-01","title":"🇦🇿 Rızık nereden gelir, Azerbaycan","url":"/2024/03/01/azerbaycan-gezisi/"}]},"zug":{"lat":47.1662,"lng":8.5155,"name":"Zug","posts":[{"date":"2025-01-12","title":"🇨🇭 Luzern neşesi, İsviçre","url":"/2025/01/12/isvicre-luzern/"},{"date":"2024-10-01","title":"🇨🇭 Sakinlik, Zug","url":"/2024/10/01/zug/"}]}};
+    
+    
+    const map = L.map('map').setView([41.0, 29.0], 4);
+    
+    
+    const lightTiles = 'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png';
+    const darkTiles = 'https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png';
+    const attribution = '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>';
+    
+    
+    const isDark = document.documentElement.classList.contains('dark');
+    let tileLayer = L.tileLayer(isDark ? darkTiles : lightTiles, {
+        attribution: attribution,
+        maxZoom: 19
+    }).addTo(map);
+    
+    
+    const observer = new MutationObserver(function(mutations) {
+        mutations.forEach(function(mutation) {
+            if (mutation.attributeName === 'class') {
+                const currentDark = document.documentElement.classList.contains('dark');
+                tileLayer.setUrl(currentDark ? darkTiles : lightTiles);
+            }
+        });
+    });
+    observer.observe(document.documentElement, { attributes: true });
+    
+    
+    const getMarkerIcon = (isDarkTheme) => {
+        const color = isDarkTheme ? '#60a5fa' : '#0085a1';
+        const svgHtml = `<svg width="30" height="30" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M12 2C8.13 2 5 5.13 5 9C5 14.25 12 22 12 22C12 22 19 14.25 19 9C19 5.13 15.87 2 12 2ZM12 11.5C10.62 11.5 9.5 10.38 9.5 9C9.5 7.62 10.62 6.5 12 6.5C13.38 6.5 14.5 7.62 14.5 9C14.5 10.38 13.38 11.5 12 11.5Z" fill="${color}" stroke="#ffffff" stroke-width="1.2"/>
+        </svg>`;
+        return L.divIcon({
+            html: svgHtml,
+            iconSize: [30, 30],
+            iconAnchor: [15, 30],
+            popupAnchor: [0, -30],
+            className: 'custom-map-marker'
+        });
+    };
+    
+    let markers = [];
+    const updateMarkerIcons = (currentDark) => {
+        markers.forEach(item => {
+            item.marker.setIcon(getMarkerIcon(currentDark));
+        });
+    };
+    
+    
+    for (const key in travelData) {
+        const loc = travelData[key];
+        if (loc.lat && loc.lng) {
+            const marker = L.marker([loc.lat, loc.lng], {
+                icon: getMarkerIcon(document.documentElement.classList.contains('dark'))
+            }).addTo(map);
+            
+            
+            let popupContent = '<div class="map-popup-container">';
+            popupContent += '<h4 class="map-popup-title">' + loc.name + '</h4>';
+            popupContent += '<ul class="map-popup-list">';
+            loc.posts.forEach(post => {
+                popupContent += '<li><a href="' + post.url + '" class="map-popup-link">' + post.title + '</a> <span class="map-popup-date">(' + post.date + ')</span></li>';
+            });
+            popupContent += '</ul>';
+            popupContent += '</div>';
+            
+            marker.bindPopup(popupContent);
+            markers.push({ marker: marker });
+        }
+    }
+    
+    
+    const themeObserver = new MutationObserver(function(mutations) {
+        mutations.forEach(function(mutation) {
+            if (mutation.attributeName === 'class') {
+                const currentDark = document.documentElement.classList.contains('dark');
+                updateMarkerIcons(currentDark);
+            }
+        });
+    });
+    themeObserver.observe(document.documentElement, { attributes: true });
+});
+</script>
+
+
+
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <ul class="list-inline text-center">
+                    
+                    
+                    
+                    
+                    
+
+		            
+                    
+                    
+                    <li>
+                        <a target="_blank" href="https://github.com/mkykadir">
+                            <span class="fa-stack fa-lg">
+                                <i class="fas fa-circle fa-stack-2x"></i>
+                                <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+		            
+                    
+                    
+                    
+                    <li>
+                        <a target="_blank" href="https://www.linkedin.com/in/mkykadir">
+                            <span class="fa-stack fa-lg">
+                                <i class="fas fa-circle fa-stack-2x"></i>
+                                <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+		           
+                    
+                    
+                    
+                    
+                    
+                    
+            
+            
+            
+           
+             </ul>
+		<p class="copyright text-muted">
+                    2026 &copy; Muhammed Kadir Yücel
+                    
+                    
+                </p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+
+
+<script>
+    function loadAsync(u, c) {
+      var d = document, t = 'script',
+          o = d.createElement(t),
+          s = d.getElementsByTagName(t)[0];
+      o.src = u;
+      if (c) { o.addEventListener('load', function (e) { c(null, e); }, false); }
+      s.parentNode.insertBefore(o, s);
+    }
+</script>
+
+
+
+
+
+
+<script>
+    
+    if($('#tag_cloud').length !== 0){
+        loadAsync("/js/jquery.tagcloud.js",function(){
+            $.fn.tagcloud.defaults = {
+                
+                color: {start: '#bbbbee', end: '#0085a1'},
+            };
+            $('#tag_cloud a').tagcloud();
+        })
+    }
+</script>
+
+
+<script>
+    loadAsync("https://cdn.jsdelivr.net/npm/fastclick@1.0.6/lib/fastclick.min.js", function(){
+        var $nav = document.querySelector("nav");
+        if($nav) FastClick.attach($nav);
+    })
+</script>
+
+
+
+
+
+
+<script type="text/javascript">
+    function generateCatalog(selector) {
+
+        
+        
+        
+        
+            _containerSelector = 'div.post-container'
+        
+
+        
+        var P = $(_containerSelector), a, n, t, l, i, c;
+        a = P.find('h1,h2,h3,h4,h5,h6');
+
+        
+        $(selector).html('')
+
+        
+        a.each(function () {
+            n = $(this).prop('tagName').toLowerCase();
+            i = "#" + $(this).prop('id');
+            t = $(this).text();
+            c = $('<a href="' + i + '" rel="nofollow" title="' + t + '">' + t + '</a>');
+            l = $('<li class="' + n + '_nav"></li>').append(c);
+            $(selector).append(l);
+        });
+        return true;
+    }
+
+    generateCatalog(".catalog-body");
+
+    
+    $(".catalog-toggle").click((function (e) {
+        e.preventDefault();
+        $('.side-catalog').toggleClass("fold")
+    }))
+
+    
+
+
+    loadAsync("\/js\/jquery.nav.js", function () {
+        $('.catalog-body').onePageNav({
+            currentClass: "active",
+            changeHash: !1,
+            easing: "swing",
+            filter: "",
+            scrollSpeed: 700,
+            scrollOffset: 0,
+            scrollThreshold: .2,
+            begin: null,
+            end: null,
+            scrollChange: null,
+            padding: 80
+        });
+    });
+</script>
+
+
+
+
+
+
+</body>
+</html>
