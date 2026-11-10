@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /search.json
+Disallow: /en/search.json
+
+Sitemap: https://mkykadir.com/sitemap.xml
